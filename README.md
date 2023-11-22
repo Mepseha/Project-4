@@ -24,7 +24,7 @@ Categorical columns are identified, and one-hot encoding is applied to convert c
 The data is then split into training and testing sets using the train_test_split method. 
 Numerical data is scaled using StandardScaler.
 
-## Neural Network Model
+## Neural Network Model:
 
 A simple neural network model is defined using TensorFlow's Keras.
 The model is compiled with binary cross-entropy loss and Adam optimizer. Training is done on the scaled training data.
