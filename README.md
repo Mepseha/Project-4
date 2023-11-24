@@ -18,7 +18,7 @@ This repository contains code for predicting genetic disorders using machine lea
 - Clean Data: Unnecessary columns are removed, and missing values are handled by dropping rows with NaN values. Duplicate rows are also identified and removed. Additionally, specific string values (e.g., '-') are replaced with more appropriate ones (e.g., 'Not applicable').
 - Data Encoding: Performed one-hot encoding on categorical columns.
 - Target Creation: A binary target column is created, indicating the presence (1) or absence (0) of a genetic disorder. The original columns used for this binary classification are then dropped..
-- Feature Selection: Used all available features for training.
+- Feature Selection: Used all available features for training using a standard scaler to scale the features.
 ### Logistic Regression Model
 - Split Data: Divided the data into training and testing sets using train_test_split.
 - Handle Imbalanced Classes: Applied Synthetic Minority Over-sampling Technique (SMOTE) to address class imbalance.
