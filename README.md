@@ -12,61 +12,64 @@ November, 2023
 
 This repository contains code for predicting genetic disorders using machine learning models, specifically neural networks and logistic regression. The dataset used for training and testing is sourced from test.csv.
 
-## Data Manipulation:
+## Logistics Regression Model (All Features)
+### Data Manipulation
+- Read Data: Loaded the data from the 'train.csv' file into a Pandas DataFrame.
+- Clean Data: Unnecessary columns are removed, and missing values are handled by dropping rows with NaN values. Duplicate rows are also identified and removed. Additionally, specific string values (e.g., '-') are replaced with more appropriate ones (e.g., 'Not applicable').
+- Data Encoding: Performed one-hot encoding on categorical columns.
+- Target Creation: A binary target column is created, indicating the presence (1) or absence (0) of a genetic disorder. The original columns used for this binary classification are then dropped..
+- Feature Selection: Used all available features for training.
+### Logistic Regression Model
+- Split Data: Divided the data into training and testing sets using train_test_split.
+- Handle Imbalanced Classes: Applied Synthetic Minority Over-sampling Technique (SMOTE) to address class imbalance.
+- Standardization: Standardized the features using Standard Scaler.
+- Model Training: Trained a logistic regression model with a random state of 9.
+- Cross-Validation: Utilized cross-validation to assess model performance.
+- Confusion Matrices and Classification Reports: Generated and analyzed confusion matrices and classification reports for both training and testing data.
+- Balanced Accuracy: Calculated and printed the balanced accuracy score.
+- Prediction on Test Data: Generated predictions on the test dataset and displayed results.
+- Confusion Matrix Heatmap: Visualized confusion matrices using a heatmap.
+- Feature Importance: Examined feature importance based on logistic regression coefficients.
+- Model Comparison: Compared logistic regression and random forest models.
+### Random Forest Classifier 
+- Random Forest Classifer was also used on the dataset to evaluate model performance.
 
-The code begins by reading the test.csv file into a Pandas DataFrame (GeneticDisorder_df).
-Unnecessary columns are removed, NaN values are identified, and rows with missing values are dropped.
-The cleaned data is then saved to a new CSV file (genetic_disorder.csv).
+![image](https://github.com/Mepseha/Project-4/assets/133922704/5d5e87b8-ccb0-434b-bc85-28c65f3f41d1)
 
-##Data Encoding and Splitting:
+## Logistics Regression Model (Subset of Features)
+### Data Manipulation
+- Read Data: Loaded the data from the 'train.csv' file into a Pandas DataFrame.
+- Clean Data: Unnecessary columns are removed, and missing values are handled by dropping rows with NaN values. Duplicate rows are also identified and removed. Additionally, specific string values (e.g., '-') are replaced with more appropriate ones (e.g., 'Not applicable').
+- Data Encoding: Performed one-hot encoding on categorical columns.
+- Target Creation: Created a binary target column indicating the presence or absence of a genetic disorder.
+- Feature Selection: 
+### Logistic Regression Model
+- Split Data: Divided the data into training and testing sets using train_test_split.
+- Model Training: Trained a logistic regression model.
+- Confusion Matrices and Classification Reports: Generated and analyzed confusion matrices and classification reports for both training and testing data.
+- Balanced Accuracy: Calculated and printed the balanced accuracy score.
+- Prediction on Test Data: Generated predictions on the test dataset and displayed results.
+- Confusion Matrix Heatmap: Visualized confusion matrices using a heatmap.
+- Feature Importance: The make_blobs function from the sklearn.datasets module is used in the provided code to generate synthetic data for testing the logistic regression model.
 
-Categorical columns are identified, and one-hot encoding is applied to convert categorical variables into a numerical format.
-The data is then split into training and testing sets using the train_test_split method. 
-Numerical data is scaled using StandardScaler.
+![image](https://github.com/Mepseha/Project-4/assets/133922704/967b3f8e-06fc-4e8d-8329-fa52f9e16610)
 
-## Neural Network Model:
+## Logistics Regression Model (Neural Networks)
+### Data Preprocessing
+- Read Data: Loaded the data from the 'genetic_disorder.csv' file into a Pandas DataFrame.
+- Feature Scaling: Scaled numerical data using StandardScaler.
+- Target and Feature Selection: Separated the target variable and selected features.
+### Neural Network Model
+- Model Definition: Defined a neural network with three layers (input, hidden, and output).
+- Model Compilation: Compiled the model using binary cross-entropy loss and the Adam optimizer.
+- Model Training: Trained the model on the training data.
+- Model Evaluation: Evaluated the model on the test data and displayed loss and accuracy.
 
-A simple neural network model is defined using TensorFlow's Keras.
-The model is compiled with binary cross-entropy loss and Adam optimizer. Training is done on the scaled training data.
+### Model Comparison
+Logistic Regression vs. Random Forest: Compared logistic regression and random forest models using various metrics, including balanced accuracy, classification reports, and confusion matrices.
+In summary, logistic regression models were applied to predict the presence or absence of genetic disorders using various sets of features. The models were trained, evaluated, and compared based on their performance metrics. Additional exploration and model tuning may be needed for further improvements.
 
-## Logistic Regression Model:
+### Conclusion 
 
-A logistic regression model is created and fitted using the training data.
-The model is then used to make predictions on both the training and testing sets.
-Confusion matrices and classification reports are generated for both sets, providing a detailed evaluation of the model's performance.
-
-### Feature Coefficients:
-
-The coefficients of the logistic regression model that focuses on Patient Age and Blood cell count (mcL) are extracted and displayed, highlighting the strength and direction of the relationship between each feature and the predicted outcome. Coefficients indicate the strength and direction (positive or negative) of the relationship between each feature and the predicted outcome. A negative coefficient suggests an inverse relationship between the feature and the predicted outcome. As "Patient Age" and "Blood cell count (mcL)" have negative coefficients, an increase in these values is associated with a decrease in the predicted outcome (lower likelihood of a Genetic Disorder).  Magnitude (Absolute Coefficient) of the coefficient indicates the strength of the relationship. Larger absolute values indicate a stronger influence on the predicted outcome.
-
-0     
-
-Patient Age     
-
-Coefficient: -1.286599 
-
-Absolute Coefficient: 1.286599
-
-1
-
-Blood cell count (mcL)  
-
-Coefficient: -0.875418 
-
-Absolute Coefficient: 0.875418
-           
-
-### Feature Importance Plot:
-
-The top features influencing the predicted outcome are identified and visualized in a horizontal bar plot, showing their respective coefficients' magnitudes.
-
-This graph helps users identify and prioritize the most influential features for the logistic regression model. "Coefficient Magnitude" is a measure of how much a feature contributes to the model's predictions, considering both the positive and negative impacts. Larger magnitudes indicate features that have a more substantial influence on the predicted outcome.
-
-
-### Confusion Matrix Heatmap:
-
-A heatmap is created to visually represent the confusion matrix for the testing data, aiding in the assessment of the model's performance. The confusion matrix heatmap allows users to visually assess how well the Logistic Regression model is performing in predicting the "Genetic Disorder" by comparing the predicted and actual classes. The goal is to have higher counts along the diagonal (from the top left to the bottom right), indicating correct predictions, and lower counts in off-diagonal cells, indicating misclassifications. The color intensity provides a quick visual summary of the distribution of predictions.
-
-
-
+The classification reports, in the Logistics Regression (All Features) effort, present the evaluation metrics for both the Logistic Regression and Random Forest models. In the primary dataset of 1,899 samples, Logistic Regression achieved an accuracy of 51%, demonstrating balanced precision and recall for both classes (0 and 1). The F1-score, a harmonic mean of precision and recall, is 0.51 for both classes, indicating a moderate balance between precision and recall. On the other hand, the Random Forest model achieved an accuracy of 50%, with a slightly higher precision and recall for class 0 compared to class 1. The F1-score for class 0 is 0.56, indicating a better balance between precision and recall for this class, while class 1 has an F1-score of 0.42. In a smaller dataset for the Logistics Regression (Subset Features) effort of 25 samples, the model performed exceptionally well with an accuracy of 100%, demonstrating perfect precision, recall, and F1-score for both classes. These results suggest that the models may perform differently on the datasets of varying sizes and characteristics, emphasizing the importance of understanding the specific context and requirements of the application. Further model tuning and exploration are recommended for achieving optimal performance.
 
