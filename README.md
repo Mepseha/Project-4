@@ -65,11 +65,11 @@ This repository contains code for predicting genetic disorders using machine lea
 - Model Training: Trained the model on the training data.
 - Model Evaluation: Evaluated the model on the test data and displayed loss and accuracy.
 
-### Model Comparison
+## Model Comparison
 Logistic Regression vs. Random Forest: Compared logistic regression and random forest models using various metrics, including balanced accuracy, classification reports, and confusion matrices.
 In summary, logistic regression models were applied to predict the presence or absence of genetic disorders using various sets of features. The models were trained, evaluated, and compared based on their performance metrics. Additional exploration and model tuning may be needed for further improvements.
 
-### Conclusion 
+## Conclusion 
 
 The classification reports, in the Logistics Regression (All Features) effort, present the evaluation metrics for both the Logistic Regression and Random Forest models. In the primary dataset of 1,899 samples, Logistic Regression achieved an accuracy of 51%, demonstrating balanced precision and recall for both classes (0 and 1). The F1-score, a harmonic mean of precision and recall, is 0.51 for both classes, indicating a moderate balance between precision and recall. On the other hand, the Random Forest model achieved an accuracy of 50%, with a slightly higher precision and recall for class 0 compared to class 1. The F1-score for class 0 is 0.56, indicating a better balance between precision and recall for this class, while class 1 has an F1-score of 0.42. In a smaller dataset for the Logistics Regression (Subset Features) effort of 25 samples, the model performed exceptionally well with an accuracy of 100%, demonstrating perfect precision, recall, and F1-score for both classes. These results suggest that the models may perform differently on the datasets of varying sizes and characteristics, emphasizing the importance of understanding the specific context and requirements of the application. Further model tuning and exploration are recommended for achieving optimal performance.
 
