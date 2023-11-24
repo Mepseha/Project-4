@@ -10,7 +10,7 @@ November, 2023
 
 ## Overview
 
-This repository contains code for predicting genetic disorders using machine learning models, specifically neural networks and logistic regression. The dataset used for training and testing is sourced from test.csv.
+This repository contains code for predicting genetic disorders using machine learning models, specifically neural networks and logistic regression. The dataset used for training and testing is sourced from train.csv.
 
 ## Logistics Regression Model (All Features)
 ### Data Manipulation
@@ -73,3 +73,6 @@ In summary, logistic regression models were applied to predict the presence or a
 
 The classification reports, in the Logistics Regression (All Features) effort, present the evaluation metrics for both the Logistic Regression and Random Forest models. In the primary dataset of 1,899 samples, Logistic Regression achieved an accuracy of 51%, demonstrating balanced precision and recall for both classes (0 and 1). The F1-score, a harmonic mean of precision and recall, is 0.51 for both classes, indicating a moderate balance between precision and recall. On the other hand, the Random Forest model achieved an accuracy of 50%, with a slightly higher precision and recall for class 0 compared to class 1. The F1-score for class 0 is 0.56, indicating a better balance between precision and recall for this class, while class 1 has an F1-score of 0.42. In a smaller dataset for the Logistics Regression (Subset Features) effort of 25 samples, the model performed exceptionally well with an accuracy of 100%, demonstrating perfect precision, recall, and F1-score for both classes. These results suggest that the models may perform differently on the datasets of varying sizes and characteristics, emphasizing the importance of understanding the specific context and requirements of the application. Further model tuning and exploration are recommended for achieving optimal performance.
 
+## Reference 
+
+Of genomes and genetics - HackerEarth ML. (n.d.). Kaggle: Your Machine Learning and Data Science Community. https://www.kaggle.com/datasets/imsparsh/of-genomes-and-genetics-hackerearth-ml/data
