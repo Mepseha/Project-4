@@ -33,6 +33,8 @@ This repository contains code for predicting genetic disorders using machine lea
 
 ![image](https://github.com/Mepseha/Project-4/assets/133922704/967b3f8e-06fc-4e8d-8329-fa52f9e16610)
 
+![image](https://github.com/Mepseha/Project-4/assets/133922704/b9051e26-06c6-46f4-9545-3def67addbd7)
+
 _- The balanced_accuracy score of the model: 1.0_
 
 # Alternative Models
@@ -72,11 +74,13 @@ _- The balanced_accuracy score of the model: 1.0_
 ### Random Forest Classifier 
 - Random Forest Classifer was also used on the dataset to evaluate model performance.
 
-![image](https://github.com/Mepseha/Project-4/assets/133922704/1d0a4a72-65fd-4bc4-afda-436f019ca0bb)
-
 ## Model Comparison
 Logistic Regression vs. Random Forest: Compared logistic regression and random forest models using various metrics, including balanced accuracy, classification reports, and confusion matrices.
 In summary, logistic regression models were applied to predict the presence or absence of genetic disorders using various sets of features. The models were trained, evaluated, and compared based on their performance metrics. Additional exploration and model tuning may be needed for further improvements.
+
+![image](https://github.com/Mepseha/Project-4/assets/133922704/1d0a4a72-65fd-4bc4-afda-436f019ca0bb)
+
+![image](https://github.com/Mepseha/Project-4/assets/133922704/f06c346c-8745-4420-9cd4-615a37712540)
 
 ## Conclusion 
 
