@@ -31,9 +31,9 @@ This repository contains code for predicting genetic disorders using machine lea
 - Confusion Matrix Heatmap: Visualized confusion matrices using a heatmap.
 - Feature Importance: The make_blobs function from the sklearn.datasets module is used in the provided code to generate synthetic data for testing the logistic regression model.
 
-![image](https://github.com/Mepseha/Project-4/assets/133922704/967b3f8e-06fc-4e8d-8329-fa52f9e16610)
+![image](https://github.com/Mepseha/Project-4/assets/133922704/b3d29844-9041-4cbb-919a-5dbccdd76d77)
 
-![image](https://github.com/Mepseha/Project-4/assets/133922704/b9051e26-06c6-46f4-9545-3def67addbd7)
+![image](https://github.com/Mepseha/Project-4/assets/133922704/f24fbff9-6d80-4338-8cdd-30721b23ab67)
 
 _- The balanced_accuracy score of the model: 1.0_
 
@@ -82,7 +82,7 @@ In summary, logistic regression models were applied to predict the presence or a
 
 ## Conclusion 
 
-The classification reports, in the Logistics Regression (Multifactorial or Single-gene inheritance GeneticDisorder_Present) effort, present the evaluation metrics for both the Logistic Regression and Random Forest models. In the primary dataset of 1,927 samples, Logistic Regression achieved an accuracy of approximately 50%, demonstrating balanced precision and recall for both classes (0 and 1). The F1-score, a harmonic mean of precision and recall, is around 0.50 for both classes, indicating a moderate balance between precision and recall. On the other hand, the Random Forest model achieved an accuracy of approximately 52%, with a slightly higher precision and recall for class 0 compared to class 1. The F1-score for class 0 is around 0.53, indicating a better balance between precision and recall for this class, while class 1 has an F1-score of around 0.52. In a smaller dataset for the Logistics Regression (Genetic Disorder) effort of 25 samples, the model performed exceptionally well with an accuracy of 100%, demonstrating perfect precision, recall, and F1-score for both classes. These results suggest that the models may perform differently on datasets of varying sizes and characteristics, emphasizing the importance of understanding the specific context and requirements of the application. Further model tuning and exploration are recommended for achieving optimal performance.
+The classification reports, in the Logistics Regression (Multifactorial or Single-gene inheritance GeneticDisorder_Present) effort, present the evaluation metrics for both the Logistic Regression and Random Forest models. In the primary dataset of 1,927 samples, Logistic Regression achieved an accuracy of approximately 50%, demonstrating balanced precision and recall for both classes (0 and 1). The F1-score, a harmonic mean of precision and recall, is around 0.50 for both classes, indicating a moderate balance between precision and recall. On the other hand, the Random Forest model achieved an accuracy of approximately 52%, with a slightly higher precision and recall for class 0 compared to class 1. The F1-score for class 0 is around 0.53, indicating a better balance between precision and recall for this class, while class 1 has an F1-score of around 0.52. In a smaller dataset for the Logistics Regression (Genetic Disorder) effort of 250 samples, the model performed exceptionally well with an accuracy of 100%, demonstrating perfect precision, recall, and F1-score for both classes. These results suggest that the models may perform differently on datasets of varying sizes and characteristics, emphasizing the importance of understanding the specific context and requirements of the application. Further model tuning and exploration are recommended for achieving optimal performance.
 
 ## Reference 
 
