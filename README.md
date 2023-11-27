@@ -78,7 +78,7 @@ _- The balanced_accuracy score of the model: 1.0_
 Logistic Regression vs. Random Forest: Compared logistic regression and random forest models using various metrics, including balanced accuracy, classification reports, and confusion matrices.
 In summary, logistic regression models were applied to predict the presence or absence of genetic disorders using various sets of features. The models were trained, evaluated, and compared based on their performance metrics. Additional exploration and model tuning may be needed for further improvements.
 
-![image](https://github.com/Mepseha/Project-4/assets/133922704/1d0a4a72-65fd-4bc4-afda-436f019ca0bb)
+![image](https://github.com/Mepseha/Project-4/assets/133922704/0a51f1a9-fa18-4e88-b338-f0b88b263e25)
 
 ## Conclusion 
 
