@@ -113,6 +113,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 5.0,4.894954946105893,1.0,4.444577372445956,False,True,False,True,True,True,True,False,False,False,True,False,False,False,True,False,False,False,True,False,True,False,False,True,True,False,True,False
 10.0,4.913499137493028,4.0,5.992337813832562,False,True,False,True,False,True,True,True,False,True,False,False,True,True,False,False,False,False,True,False,False,False,False,True,True,False,False,True
 11.0,4.9875170649543845,2.0,6.491570626021901,True,False,True,False,True,False,True,False,True,False,False,False,True,False,False,False,False,True,True,False,False,False,False,True,True,False,False,False
+5.0,5.029601229174998,3.0,12.0,True,False,True,False,False,True,False,False,False,False,True,False,False,True,False,False,True,True,True,False,True,False,False,False,True,False,True,False
 1.0,5.065418914008872,2.0,3.84553697475828,True,True,True,False,False,True,True,False,True,False,True,False,False,True,False,False,True,True,True,False,False,False,False,False,False,False,False,False
 8.0,4.807233480836897,0.0,3.0721055371073405,True,True,False,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,True,False,True,True,False,False,False,True
 9.0,5.0846034443629184,0.0,7.649471177882358,True,True,True,False,False,False,True,True,False,True,False,False,True,True,False,True,False,False,True,False,True,False,True,False,True,False,False,True
@@ -126,6 +127,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 4.0,5.038992969124693,0.0,5.460416037369624,False,False,True,False,True,False,False,True,False,True,True,False,False,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False
 0.0,4.95594260719683,4.0,3.0,True,True,True,True,True,True,False,True,False,True,False,True,False,False,True,False,True,True,False,False,True,False,False,True,False,True,False,False
 8.0,4.8401990853618,1.0,10.823379542226997,False,True,True,False,False,True,True,False,False,True,False,True,False,True,False,False,True,False,True,False,False,False,False,True,True,True,False,False
+6.0,5.0806645931240375,2.0,7.679504457724961,False,True,False,True,False,False,True,True,False,True,False,False,False,True,False,True,False,True,True,False,False,False,False,False,True,True,False,False
 3.0,5.1797890414613725,0.0,9.680542412506677,True,True,False,False,False,True,True,False,True,False,False,True,False,True,False,True,False,False,True,False,False,True,True,False,False,True,False,False
 10.0,4.902055052294717,0.0,3.945100695704284,True,False,False,False,False,True,False,False,False,False,False,False,False,True,False,True,True,True,True,False,True,False,False,False,False,False,False,False
 0.0,4.921294648522563,2.0,11.455506903980744,True,False,False,True,False,True,True,True,False,False,False,True,False,True,False,False,True,False,True,False,True,False,False,False,True,True,False,False
@@ -156,6 +158,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 2.0,4.92265392885125,1.0,9.067757523225383,True,False,True,True,True,True,True,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,True,False
 0.0,5.054001153473867,2.0,11.19292484003024,True,False,True,True,False,True,True,True,False,True,False,False,True,True,False,True,True,True,True,False,True,False,True,True,True,False,True,False
 4.0,4.887201082970191,1.0,8.130903551542946,True,True,False,True,False,True,True,False,False,True,True,False,False,True,False,True,True,False,True,False,False,True,False,True,True,False,False,True
+4.0,4.951027035754674,4.0,6.270006024351764,False,False,True,False,False,False,True,False,False,True,False,False,True,True,False,True,True,False,False,False,True,False,False,True,True,False,False,True
 4.0,5.074715297669673,4.0,10.5468984227053,False,True,True,True,True,False,False,True,True,False,False,True,False,False,True,True,False,True,True,False,False,False,False,True,False,True,False,False
 0.0,5.006008495982016,3.0,10.411623337991044,False,True,True,True,False,False,True,False,False,False,False,False,True,True,False,True,True,True,False,False,True,False,False,True,True,False,False,False
 5.0,4.889464824886852,4.0,7.850455859943236,True,True,False,True,True,False,True,True,False,False,True,False,False,False,False,False,False,False,True,False,True,False,False,True,False,False,False,True
@@ -280,6 +283,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 8.0,4.692179532283105,0.0,5.0395595577783405,True,True,True,True,True,True,False,False,False,False,False,False,True,False,True,False,False,True,True,False,True,False,False,True,True,False,False,False
 4.0,4.8465870779122575,4.0,8.20078189994714,True,False,True,False,True,False,False,True,False,False,False,False,False,False,True,False,True,True,False,False,True,False,False,False,True,False,True,False
 14.0,4.935614037614948,1.0,9.4098379603407,True,True,True,True,True,False,True,False,False,True,True,False,False,False,True,True,False,False,True,False,False,False,True,False,False,False,False,False
+2.0,5.263632769951469,1.0,12.0,False,True,True,False,False,True,True,False,False,False,False,False,False,True,False,True,True,True,True,False,True,False,True,True,False,True,False,False
 1.0,4.821143355551198,1.0,12.0,True,True,False,True,False,False,False,False,False,False,False,False,True,True,False,False,True,False,False,True,True,False,False,False,False,False,True,False
 2.0,4.710214367767638,3.0,4.07661625239881,False,True,False,True,True,True,True,False,False,False,False,False,False,False,True,False,True,False,False,False,True,False,False,True,True,False,True,False
 3.0,4.828792177667141,0.0,9.463205488426471,True,False,True,False,False,False,False,True,True,False,False,False,True,True,False,True,True,True,False,True,True,False,False,True,True,True,False,False
@@ -287,6 +291,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 6.0,5.179389699753068,3.0,9.475786327048024,False,False,True,False,False,False,False,False,False,True,True,False,False,True,False,True,True,True,False,True,False,True,True,False,True,True,False,False
 7.0,4.66004171957891,1.0,12.0,True,False,False,True,True,True,False,True,True,False,False,False,False,False,True,False,True,True,False,False,False,True,False,False,False,True,False,False
 4.0,4.998350853591731,4.0,5.4233314590835535,False,False,True,True,False,True,False,True,True,False,False,True,False,True,False,False,False,False,False,True,False,False,True,False,False,True,False,False
+5.0,4.949851661457212,2.0,8.112932451096746,True,True,True,True,False,False,True,True,True,False,False,False,False,True,False,True,False,True,True,False,False,False,True,False,False,False,False,True
 1.0,4.54975944385752,0.0,3.0,False,False,False,False,False,False,True,False,True,False,False,True,False,True,False,False,False,False,True,False,True,False,True,True,True,False,False,False
 0.0,5.018597330182312,2.0,5.358294997898254,False,False,False,True,True,True,True,True,False,True,False,False,False,False,False,True,True,False,True,False,False,True,True,True,True,False,False,True
 0.0,4.629464703594968,2.0,3.0,False,False,False,False,False,False,True,True,False,False,True,False,False,True,False,True,True,False,True,False,True,False,True,False,True,False,False,False
@@ -326,6 +331,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 12.0,5.131434501944745,4.0,10.469358870595476,False,False,True,True,False,False,False,False,False,True,False,False,False,True,False,True,True,True,True,False,True,False,False,True,False,False,False,True
 3.0,4.96853243153032,2.0,5.665420539504813,True,False,True,False,False,True,True,True,True,False,True,False,False,True,False,True,False,False,False,False,True,False,True,False,False,False,True,False
 5.0,4.9982677942672735,2.0,3.0,True,False,False,False,False,True,True,True,False,True,False,False,False,True,False,True,False,True,True,False,True,False,False,False,False,False,False,True
+2.0,4.777314192344243,3.0,5.4279439703742405,True,True,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,True,True,False,True,False,False,True,True,False,False,False
 9.0,5.019013664057933,1.0,5.286113585011374,True,False,True,False,True,False,True,False,True,False,True,False,False,False,True,True,False,False,False,True,False,True,False,False,True,False,False,False
 0.0,5.193149592098291,1.0,4.187090420932985,True,False,True,False,True,False,True,True,True,False,True,False,False,False,True,True,False,False,False,False,True,False,True,True,True,True,False,False
 5.0,5.104095512305501,4.0,9.972874421687187,True,True,False,False,False,True,True,True,True,False,False,False,False,True,False,False,False,False,True,False,False,True,True,True,True,False,False,False
@@ -439,6 +445,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 0.0,4.866833987119944,1.0,6.670127666276732,True,True,True,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,True,True,True,True,False,False
 6.0,4.733516592941414,4.0,3.535501200757696,False,False,False,True,False,False,False,True,False,True,True,False,False,True,False,True,False,True,False,False,False,True,True,True,False,False,False,True
 3.0,4.824829400413756,2.0,3.1861537695275985,True,False,True,True,False,True,True,True,False,False,True,False,False,True,False,False,False,True,True,False,False,False,False,True,False,True,False,False
+10.0,4.919363448288795,3.0,7.669358829165379,True,True,False,True,False,True,False,False,True,False,False,True,False,True,False,False,False,True,True,False,True,False,True,True,False,True,False,False
 3.0,4.803201181684278,3.0,11.88255925833591,True,False,False,False,False,True,False,False,False,True,True,False,False,True,False,True,True,True,False,False,True,False,False,True,True,False,True,False
 1.0,5.235440611145365,2.0,12.0,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,True,False,False,True,True,True,False,True,False
 14.0,4.8235411466157965,2.0,3.0,False,True,True,False,True,True,False,True,False,True,False,False,False,False,True,False,True,False,True,False,True,False,False,False,True,False,False,False
@@ -592,9 +599,11 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 4.0,5.081402157509404,3.0,5.217106120031714,True,False,False,False,False,False,False,True,False,True,False,True,False,True,False,False,False,True,True,False,True,False,True,False,False,False,False,True
 7.0,5.029485195703606,4.0,8.496908838129555,True,True,False,False,False,True,True,True,True,False,True,False,False,True,False,True,False,False,False,True,True,False,False,True,False,True,False,False
 14.0,5.078044601468489,4.0,5.734917875116071,False,False,False,False,False,True,True,False,True,False,True,False,False,True,False,True,True,True,True,False,False,True,True,False,True,False,False,True
+14.0,4.298197108153125,2.0,8.288609483993378,False,True,False,True,False,True,False,False,False,True,True,False,False,True,False,True,True,False,False,True,True,False,True,False,False,False,False,True
 10.0,4.831914807295124,4.0,9.513294386489628,True,False,True,False,True,True,False,False,False,False,True,False,False,False,False,True,False,True,True,False,True,False,False,True,False,False,False,True
 0.0,4.700189012291058,4.0,5.8347338555795805,False,False,True,False,False,False,False,True,False,False,False,True,False,True,False,False,False,True,True,False,False,False,True,True,False,True,False,False
 10.0,4.978920379051,2.0,6.8868575701548265,True,False,True,True,False,True,False,False,True,False,True,False,False,True,False,True,True,False,False,True,False,True,True,False,True,True,False,False
+8.0,4.865886483810032,0.0,6.523566115891766,True,True,True,False,True,True,False,False,False,True,True,False,False,False,False,True,True,True,True,False,False,False,False,False,True,False,False,True
 2.0,4.693967685741789,2.0,3.0,False,True,True,False,False,True,True,False,False,True,True,False,False,True,False,True,True,False,True,False,True,False,True,True,True,False,False,True
 8.0,5.045595123055684,3.0,8.008451575336355,True,True,True,True,True,False,True,False,False,True,True,False,False,False,True,True,True,False,True,False,False,True,True,True,True,False,False,False
 5.0,4.975254274150603,4.0,12.0,True,True,False,True,False,True,False,False,True,False,False,False,True,True,False,False,True,False,False,False,False,False,True,False,True,False,True,False
@@ -657,6 +666,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 14.0,4.934572508787691,4.0,9.865990127676817,False,False,False,True,True,True,False,False,True,False,False,True,False,False,True,True,False,False,True,False,True,False,False,False,False,False,False,True
 13.0,4.698071075486684,3.0,9.563369579221773,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,True,False,False,False,False,False,False,True,False,False,False,True
 11.0,4.7953127444937005,3.0,9.861603536613355,True,True,True,False,False,True,True,True,False,True,False,True,False,True,False,False,True,False,False,True,False,False,True,True,False,False,True,False
+6.0,4.725434487541371,2.0,4.958956588540313,True,True,False,False,False,False,False,True,False,True,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,True,False,False
 6.0,4.8906931556793545,0.0,12.0,True,True,True,False,False,False,False,True,False,False,False,False,True,True,False,False,False,True,True,False,True,False,True,True,False,False,True,False
 5.0,4.809154786054154,4.0,9.204457183088785,True,True,False,False,True,True,True,True,True,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False,True
 12.0,4.843160833281988,0.0,5.692366467391517,True,False,True,True,True,False,False,False,False,False,True,False,False,False,True,False,True,False,True,False,False,False,True,True,False,False,False,True
@@ -674,6 +684,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 0.0,4.8503705912263815,3.0,6.000330243439188,True,False,True,False,True,True,True,True,True,False,False,False,False,False,False,True,False,True,False,False,False,True,False,False,False,False,False,False
 7.0,4.9174331094158426,0.0,4.004485785790651,True,False,False,False,True,False,True,True,True,False,False,False,True,False,True,True,False,False,True,False,False,True,True,True,False,False,True,False
 9.0,4.973074230006168,0.0,10.123320531341564,True,True,True,True,True,True,False,True,False,False,False,False,False,False,True,False,True,True,False,True,False,True,True,True,True,False,False,False
+10.0,5.252490635069849,0.0,10.705879122633592,True,True,True,False,False,True,False,False,False,True,False,False,True,True,False,True,False,False,True,False,True,False,False,True,True,True,False,False
 12.0,4.8696753784285125,4.0,5.387049488189152,True,True,True,False,False,False,False,True,False,True,True,False,False,True,False,False,False,False,False,True,False,True,False,True,True,False,False,True
 6.0,4.858240076427368,0.0,7.143837029994542,False,True,True,True,False,True,False,True,False,True,False,False,True,True,False,False,False,False,True,False,True,False,False,False,False,True,False,False
 14.0,5.087998275387166,4.0,12.0,True,True,False,False,True,False,False,False,False,False,False,True,False,False,True,True,False,False,True,False,True,False,True,True,False,True,False,False
@@ -769,6 +780,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 6.0,5.39505520591818,3.0,12.0,False,True,False,True,False,False,True,False,False,False,False,False,False,True,False,True,True,False,False,True,True,False,True,True,False,False,True,False
 2.0,4.825313427547291,4.0,8.985279029263939,True,True,True,True,True,False,True,True,True,False,False,True,False,False,True,False,True,False,True,False,True,False,False,False,True,False,False,False
 7.0,4.73979612613471,1.0,9.712885882648417,True,False,False,True,True,False,True,True,True,False,False,False,False,False,True,False,True,True,False,True,True,False,False,True,False,False,False,True
+1.0,4.825199411462381,4.0,8.508736151682605,False,False,False,True,True,True,False,False,False,False,False,True,False,False,True,True,False,False,True,False,False,True,False,False,False,True,False,False
 13.0,4.925161791861338,2.0,4.5560517964056455,False,False,True,False,False,False,True,True,False,False,False,True,False,True,False,False,True,True,True,False,True,False,True,True,False,False,True,False
 13.0,4.864555485834626,0.0,11.98619941442889,False,False,True,False,False,False,False,True,False,False,False,False,True,True,False,False,True,False,True,False,False,False,True,False,False,False,False,False
 1.0,4.67896664111526,0.0,9.696118963720648,False,False,False,False,False,False,False,True,False,False,False,False,True,True,False,False,True,True,False,False,True,False,False,False,True,False,True,False
@@ -824,6 +836,8 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 12.0,4.844247533813364,4.0,7.567366789238665,True,False,False,False,False,True,True,False,False,False,False,False,False,True,False,False,True,True,False,False,True,False,True,True,True,False,True,False
 12.0,4.897904833768286,2.0,12.0,True,True,False,False,True,True,True,False,False,False,False,False,True,False,False,False,True,True,True,False,True,False,True,False,True,False,False,False
 13.0,5.115060540819184,4.0,7.599934278762952,False,False,False,False,False,False,True,True,False,False,False,False,True,True,False,False,False,False,False,False,True,False,True,False,False,True,False,False
+10.0,5.115228371148024,3.0,7.266074875881633,True,False,True,True,False,True,False,False,False,False,True,False,False,True,False,True,True,True,True,False,True,False,False,False,True,False,True,False
+13.0,4.921763047564541,0.0,5.6936003748064685,True,False,False,False,True,False,True,True,False,True,False,True,False,False,False,True,True,False,False,False,True,False,False,False,True,False,True,False
 7.0,4.7435374011833895,2.0,7.785072983739559,True,True,True,True,True,True,False,False,True,False,True,False,False,False,False,True,False,False,True,False,False,True,True,True,True,False,False,True
 1.0,5.060918066703739,3.0,3.0,True,False,False,False,False,False,True,True,True,False,False,False,False,True,False,False,True,False,False,True,True,False,True,True,False,False,True,False
 10.0,4.641097430227337,1.0,10.264409813925711,False,False,True,False,False,True,False,True,False,False,False,False,True,True,False,True,False,True,False,False,False,False,False,True,False,True,False,False
@@ -852,6 +866,8 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 3.0,5.325936606711874,0.0,12.0,True,True,True,True,True,False,True,False,False,False,True,False,False,False,True,False,True,True,True,False,True,False,True,True,True,True,False,False
 7.0,4.9694215082342925,0.0,4.318593591994532,False,False,False,True,False,False,True,True,False,True,False,True,False,True,False,True,True,True,False,False,False,False,False,True,False,True,False,False
 8.0,5.187983354358455,2.0,6.13232836290385,False,True,False,False,False,True,True,False,True,False,False,False,True,True,False,True,True,False,True,False,False,False,False,True,True,False,True,False
+0.0,5.021785123360165,0.0,9.822119241976942,True,True,False,True,True,True,False,False,False,True,False,False,True,False,True,True,True,True,True,False,True,False,False,True,True,True,False,False
+13.0,4.82955964181699,1.0,3.649992184903792,False,False,False,False,True,False,True,False,False,True,True,False,False,False,True,False,True,True,False,True,True,False,True,False,True,False,False,True
 13.0,5.01173551603668,4.0,9.806863270075466,True,True,True,False,False,True,True,False,True,False,False,True,False,True,False,False,False,True,False,False,True,False,True,True,True,False,True,False
 3.0,5.1963702018583,4.0,7.935153524176222,False,False,False,False,False,True,False,True,False,False,False,True,False,True,False,True,True,True,True,False,True,False,False,True,False,False,False,False
 11.0,5.09128706458801,2.0,7.194350066167741,False,False,False,True,False,False,False,False,False,True,False,True,False,True,False,True,False,False,True,False,True,False,True,True,True,False,False,True
@@ -878,6 +894,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 12.0,4.953720197951616,0.0,3.0,False,False,False,True,False,False,False,False,False,False,False,False,True,True,False,True,False,True,False,False,False,True,True,True,True,False,False,False
 1.0,5.307675463831336,1.0,5.377937571040539,True,False,False,True,False,True,True,False,False,False,False,False,False,True,False,True,False,False,True,False,True,False,False,False,False,False,False,False
 0.0,4.838372470986989,1.0,9.280245948524966,True,True,False,False,False,False,True,True,False,True,True,False,False,True,False,False,False,True,True,False,False,False,True,False,False,True,False,False
+3.0,4.6247744062213085,2.0,4.941911166218167,True,False,True,False,False,True,False,True,False,False,True,False,False,True,False,False,False,True,False,False,False,True,True,True,False,False,False,True
 11.0,5.245751294089279,0.0,6.852679327203624,True,True,True,False,False,True,True,True,False,True,False,False,True,True,False,False,True,True,False,False,False,False,True,True,False,False,False,False
 12.0,4.994615942747158,2.0,10.328029370408633,False,True,False,True,False,True,False,False,False,True,True,False,False,True,False,True,False,True,False,True,False,True,True,False,True,False,False,True
 8.0,4.787105471775379,0.0,6.415211706505318,True,True,True,False,False,True,False,False,False,True,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False
@@ -1002,6 +1019,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 0.0,4.718954959637587,2.0,8.943146749877988,False,False,True,False,False,False,True,False,True,False,False,False,True,True,False,False,False,True,False,True,False,True,False,False,True,False,False,True
 2.0,4.960630430255058,3.0,7.4868474164884224,False,True,False,True,True,True,True,False,False,True,False,False,True,False,True,True,True,False,False,False,True,False,False,False,True,False,True,False
 9.0,4.971205833762456,2.0,6.559401632273527,True,True,True,True,True,False,False,True,False,True,False,True,False,False,True,True,True,True,True,False,True,False,True,False,True,False,False,True
+3.0,4.843437182777703,2.0,11.160309601839591,True,True,True,True,False,False,True,False,False,True,False,True,False,True,False,False,False,False,False,True,False,True,False,True,False,True,False,False
 0.0,4.661506367513316,2.0,8.704410509778793,False,False,False,True,True,False,True,True,False,False,True,False,False,False,False,False,True,True,False,False,True,False,False,False,False,True,False,False
 13.0,4.7864278563188245,2.0,12.0,False,False,True,True,True,True,True,True,True,False,False,False,False,False,True,False,True,True,True,False,True,False,True,False,True,True,False,False
 2.0,4.58518989766713,4.0,8.341302362720416,True,False,False,True,True,True,True,True,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,True,False,False,False,True
@@ -1069,6 +1087,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 12.0,5.248294469203012,4.0,6.755382392489383,True,True,False,True,True,False,False,False,True,False,False,False,False,False,False,True,True,False,True,False,True,False,False,False,True,False,False,True
 13.0,4.935646064789583,3.0,9.414298400737042,True,True,False,True,False,True,False,False,False,True,False,False,False,True,False,True,True,True,True,False,True,False,True,True,True,False,True,False
 12.0,5.336342404397096,0.0,6.0488845331255,False,True,False,True,False,False,True,True,False,False,False,False,True,True,False,True,True,False,True,False,False,False,False,False,False,True,False,False
+4.0,5.3301913635904725,0.0,4.026716229942124,True,True,False,True,False,False,False,False,False,True,True,False,False,True,False,False,True,True,True,False,False,False,False,True,False,False,False,False
 9.0,4.932573340729557,4.0,5.847088571544554,True,True,True,True,True,True,False,False,False,True,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False
 7.0,4.917711290517618,3.0,8.828456688581221,True,False,False,True,True,False,True,True,False,False,False,True,False,False,True,True,False,False,True,False,False,True,False,True,False,True,False,False
 7.0,4.857330158371836,2.0,9.365327294920425,True,True,True,False,True,True,False,False,False,False,True,False,False,False,True,False,True,False,False,False,True,False,False,False,True,False,False,False
@@ -1097,14 +1116,17 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 1.0,4.990318981150837,3.0,7.886982942419688,False,False,False,True,True,False,False,False,False,True,False,True,False,False,True,False,True,False,True,False,True,False,True,True,False,True,False,False
 1.0,4.946271678220492,3.0,3.482704678649344,False,False,True,False,False,False,True,True,True,False,True,False,False,True,False,True,False,False,True,False,False,False,False,False,True,False,False,True
 10.0,4.748814607869979,2.0,11.546289414375751,False,True,False,True,False,False,True,False,False,True,False,True,False,True,False,True,True,True,False,False,True,False,False,True,True,False,True,False
+1.0,4.6867100587210855,4.0,6.507185204388256,True,True,True,False,False,False,True,True,False,False,True,False,False,True,False,True,True,True,False,False,True,False,True,False,False,False,False,True
 11.0,4.906785222628682,4.0,4.6416093753199466,True,False,True,True,False,False,True,False,False,False,True,False,False,True,False,False,False,True,False,True,False,False,True,True,True,False,True,False
 10.0,5.1390512966994,1.0,9.613610281671676,True,True,False,True,False,False,True,False,False,False,False,False,True,True,False,True,False,False,True,False,True,False,True,False,True,True,False,False
 12.0,5.139562864931177,2.0,3.0,True,True,False,False,False,True,True,False,True,False,False,True,False,True,False,True,True,True,True,False,True,False,False,True,False,False,False,False
 8.0,4.970509702404028,1.0,11.405292112569294,True,True,True,False,False,True,False,True,False,True,False,False,True,True,False,True,True,False,False,False,False,True,False,True,True,True,False,False
 1.0,4.973999526145387,4.0,6.158915001670687,True,False,True,False,False,False,True,False,False,True,False,True,False,True,False,False,False,False,True,False,True,False,True,True,True,False,True,False
 6.0,4.843033089763131,1.0,4.465442623166107,True,True,True,False,False,True,True,True,False,False,True,False,False,True,False,True,True,False,True,False,True,False,True,True,False,False,False,False
+5.0,4.810720610345187,1.0,9.55232291514491,True,True,False,True,True,False,True,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,True,False,False,False,True
 9.0,4.533643682570995,1.0,4.266703345212913,True,False,True,False,True,True,True,False,False,True,True,False,False,False,False,True,False,True,True,False,True,False,False,False,True,False,True,False
 4.0,4.6068602472059474,4.0,9.098993516514753,True,True,True,True,True,True,True,False,False,False,False,False,False,False,False,False,True,True,True,False,False,True,False,False,True,False,False,False
+13.0,4.886944658047908,4.0,5.374172987379838,True,False,True,True,False,True,False,True,False,False,False,True,False,True,False,True,True,False,True,False,True,False,False,True,True,True,False,False
 9.0,4.826499836955367,4.0,8.361529683467031,True,True,False,True,True,True,False,False,False,True,True,False,False,False,False,True,True,True,False,False,False,False,True,False,False,False,False,True
 2.0,5.141345661585712,3.0,8.666330030584511,False,True,True,True,False,False,True,True,False,True,False,False,False,True,False,True,True,False,True,False,True,False,True,True,True,False,False,False
 3.0,4.820204685354684,4.0,8.486045812953838,False,False,False,True,False,False,False,True,True,False,False,False,False,True,False,False,True,True,True,False,True,False,True,False,False,False,False,False
@@ -1124,6 +1146,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 11.0,4.687705124884818,1.0,6.352541868797407,False,False,True,True,True,False,False,True,True,False,False,False,True,False,False,True,True,False,True,False,False,False,True,False,True,False,False,True
 7.0,4.8697212114296535,2.0,6.862891642579973,False,False,False,True,False,False,False,True,False,True,False,False,False,True,False,True,True,True,False,True,True,False,False,True,False,False,False,False
 0.0,5.030116592151586,3.0,7.369273692327871,True,False,False,False,True,False,False,True,True,False,True,False,False,False,False,True,False,False,True,False,True,False,True,True,False,False,False,False
+2.0,4.594803634721554,0.0,11.361931138192435,True,True,True,True,False,True,True,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False
 4.0,4.7285418874633285,1.0,7.735147401384388,False,False,False,False,False,False,True,False,False,True,False,False,False,True,False,True,True,False,True,False,False,True,False,True,True,False,False,False
 0.0,4.770225516527571,3.0,8.024138040583383,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,True,False,True,True,False,False,True,True,False,True,False
 9.0,4.9575758858602175,3.0,7.380687994766296,True,False,True,False,False,True,True,True,False,True,False,False,False,True,False,False,True,True,True,False,False,True,True,True,True,False,True,False
@@ -1147,6 +1170,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 14.0,4.604090233234672,2.0,6.155544629716803,False,False,True,False,True,True,False,True,False,False,True,False,False,False,True,True,True,False,False,True,True,False,False,True,True,True,False,False
 14.0,4.928100191872089,0.0,10.224501273215632,True,True,True,True,False,True,True,True,True,False,False,False,False,True,False,False,False,True,True,False,False,False,True,False,False,False,True,False
 3.0,4.694369466391053,4.0,6.589257749071139,False,False,False,False,False,True,True,True,False,False,False,True,False,True,False,True,True,False,True,False,True,False,False,False,False,True,False,False
+14.0,5.036509133058555,2.0,6.8056062894137455,True,True,True,False,False,False,True,True,False,False,False,False,False,True,False,False,True,False,False,True,True,False,False,True,False,False,False,True
 11.0,4.889694467347464,2.0,9.041181099045554,False,False,True,False,False,True,False,True,True,False,False,False,False,True,False,False,True,False,False,True,False,True,False,True,True,False,False,False
 9.0,4.535522817310487,1.0,3.9387767852005457,True,True,True,False,False,False,False,True,False,False,False,True,False,True,False,False,True,True,False,False,False,True,False,False,True,True,False,False
 2.0,5.094536747884487,3.0,4.261774049860858,True,False,True,True,False,True,True,True,True,False,False,True,False,True,False,True,False,False,False,True,True,False,True,False,False,False,True,False
@@ -1168,6 +1192,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 14.0,4.632969866104951,0.0,8.24346491939885,False,False,False,True,True,False,True,True,True,False,False,True,False,False,True,False,True,True,False,False,False,True,False,True,False,False,True,False
 4.0,5.1609534081005695,1.0,9.383128446887136,False,False,False,True,True,True,False,True,True,False,True,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False
 9.0,4.945165485295003,1.0,12.0,False,False,True,False,True,True,False,False,True,False,False,False,False,False,False,True,False,False,False,True,True,False,False,True,False,False,False,True
+14.0,4.990927214587455,4.0,7.754027601331277,False,False,False,True,False,True,True,True,False,True,False,False,True,True,False,True,False,True,True,False,True,False,True,True,False,False,False,True
 6.0,4.738660197644335,3.0,8.680635446255959,True,False,True,True,False,False,True,False,True,False,False,True,False,True,False,True,False,True,False,True,False,False,False,False,True,False,True,False
 10.0,5.2207502668472925,3.0,12.0,False,False,False,False,False,True,False,False,False,True,True,False,False,True,False,True,False,False,False,False,True,False,False,False,False,True,False,False
 3.0,4.780432482802191,2.0,9.913349399937536,False,False,True,True,True,False,True,False,False,False,False,False,False,False,False,False,True,False,False,True,True,False,True,True,False,False,True,False
@@ -1179,6 +1204,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 5.0,4.727806616191093,4.0,6.26770036498483,True,False,True,False,False,False,True,True,False,True,False,True,False,True,False,False,False,True,False,False,True,False,True,False,False,True,False,False
 1.0,4.7265165146393295,0.0,10.204390857848129,False,True,False,True,False,False,False,False,False,True,False,False,False,True,False,False,False,False,True,False,True,False,True,True,True,False,False,True
 5.0,4.805847607441286,3.0,7.19411266463925,False,True,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,True,False,True,False,True,False,False,False,False,False
+5.0,4.838004918302572,3.0,5.636029156617317,False,False,True,False,True,False,True,False,True,False,True,False,False,False,True,True,True,True,False,False,False,False,True,False,False,True,False,False
 13.0,4.6830223876784896,0.0,8.122652271647397,False,False,False,False,False,True,True,True,False,False,False,False,False,True,False,False,True,True,False,False,True,False,False,False,True,False,False,False
 1.0,4.983136510593296,3.0,11.831683181239915,False,False,True,False,False,False,True,True,False,False,True,False,False,True,False,False,False,True,True,False,True,False,True,True,False,False,False,False
 0.0,4.640423441893312,1.0,10.372306723647064,True,True,True,False,False,True,True,False,False,False,False,False,True,True,False,False,True,False,True,False,False,False,True,False,False,False,True,False
@@ -1217,6 +1243,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 8.0,4.989172550440126,0.0,8.252906853325431,False,True,True,True,False,False,True,True,False,True,False,True,False,True,False,False,False,True,False,True,False,False,True,False,False,False,True,False
 9.0,5.0642208760438425,4.0,9.71354639344063,True,True,True,True,True,True,False,False,False,False,True,False,False,False,True,True,False,True,True,False,True,False,True,True,True,False,False,True
 4.0,4.5437697115302615,3.0,4.2055101186383705,True,True,True,True,False,True,True,False,False,False,False,False,False,True,False,False,False,True,True,False,False,True,True,True,False,False,False,False
+2.0,4.895689412917989,2.0,5.242039760982904,False,False,False,True,True,False,False,False,False,True,False,True,False,False,True,True,True,True,True,False,False,False,False,False,True,False,False,False
 13.0,5.102566982421807,4.0,3.0,True,False,False,False,True,False,False,True,False,True,True,False,False,False,True,False,True,True,False,True,False,False,True,False,True,False,False,True
 9.0,5.175713841609199,4.0,4.51409160777146,False,False,False,False,True,False,True,False,False,False,False,False,True,False,False,True,False,False,True,False,False,False,False,False,False,False,False,True
 13.0,4.405605966440382,0.0,11.549018096239044,True,True,False,False,False,True,True,True,True,False,False,False,False,True,False,True,True,False,True,False,True,False,True,True,False,False,False,False
@@ -1331,6 +1358,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 9.0,4.968931660610248,4.0,6.133576748288959,True,False,True,False,False,True,False,True,True,False,False,True,False,True,False,False,True,False,False,False,False,True,True,True,False,False,False,False
 1.0,5.006548372057593,3.0,7.281571077859244,False,True,False,True,False,True,False,False,False,False,False,True,False,True,False,True,True,False,True,False,False,True,False,True,False,True,False,False
 12.0,4.547931736584847,3.0,7.211783542780057,True,True,True,False,False,True,True,False,True,False,False,True,False,True,False,False,True,True,True,False,True,False,True,True,False,False,False,False
+2.0,4.845534274030517,3.0,9.645361675526534,True,False,True,False,False,False,True,True,False,True,False,False,False,True,False,False,False,True,True,False,True,False,True,True,True,False,False,True
 11.0,4.858787899935828,0.0,3.0,True,False,True,True,True,True,False,True,True,False,False,False,True,False,False,False,False,False,True,False,False,False,True,True,True,False,False,True
 14.0,5.028205379792404,2.0,8.66592932521435,False,False,False,True,True,False,True,True,False,False,False,False,True,False,False,True,False,True,True,False,False,True,False,True,True,False,True,False
 6.0,5.025677602606587,2.0,3.961394107283045,True,False,True,True,False,True,True,False,False,True,False,False,False,True,False,True,False,False,True,False,False,False,True,False,True,False,False,False
@@ -1484,7 +1512,9 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 0.0,4.398367660980983,2.0,4.954898990996735,False,False,True,False,False,True,False,False,False,True,False,False,True,True,False,False,True,False,True,False,True,False,False,True,False,False,False,False
 2.0,4.991330820492787,1.0,8.984444632449572,True,False,False,True,False,True,True,False,True,False,False,False,True,True,False,True,True,False,True,False,False,False,True,True,False,False,False,False
 1.0,4.894154100794504,2.0,8.564653058335027,False,False,True,True,True,True,False,False,True,False,False,True,False,False,True,True,False,True,False,True,True,False,False,False,True,False,False,False
+2.0,4.608970740498768,2.0,4.561422106788785,True,False,True,True,True,True,False,True,True,False,True,False,False,False,False,True,True,False,False,False,True,False,True,False,True,False,False,False
 3.0,4.911688448769793,4.0,5.714146656012873,True,True,True,False,False,True,True,False,False,True,False,False,True,True,False,True,False,True,True,False,True,False,False,False,False,False,False,True
+9.0,4.929644787370676,2.0,10.383587268171986,False,False,False,False,False,False,True,True,False,True,True,False,False,True,False,False,False,False,True,False,True,False,False,True,False,False,False,True
 0.0,4.909461994296018,1.0,7.256310568918833,False,False,True,False,False,False,True,True,False,False,False,True,False,True,False,True,True,True,True,False,False,False,True,False,False,False,False,True
 5.0,5.170911817681999,4.0,9.128099424777426,True,True,True,True,True,True,True,True,False,True,False,False,True,False,False,False,True,True,False,True,True,False,True,True,False,True,False,False
 0.0,5.036015470987188,0.0,5.890073026500857,False,False,True,True,True,False,True,True,True,False,False,False,False,False,True,True,False,False,True,False,True,False,True,True,False,False,False,False
@@ -1493,6 +1523,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 0.0,4.867587681767541,3.0,6.819112469611678,False,False,False,False,False,False,False,False,True,False,False,False,True,True,False,True,True,False,False,False,True,False,True,False,True,False,True,False
 7.0,4.8554832639261765,3.0,7.151996533594796,True,False,False,False,False,True,False,True,False,True,False,False,False,True,False,False,True,True,True,False,False,True,True,False,False,False,False,False
 3.0,4.829824355318275,1.0,7.089420421119354,False,False,False,True,True,True,True,True,False,False,False,False,False,False,True,True,True,False,True,False,False,False,False,True,False,False,False,False
+9.0,4.764710261757052,1.0,6.602069846304017,True,False,True,False,True,True,True,False,False,True,False,True,False,False,True,True,False,True,False,True,True,False,True,False,True,False,True,False
 9.0,5.038100295107368,4.0,9.773077075868772,True,False,False,False,False,False,False,True,False,True,False,False,True,True,False,False,False,False,False,True,False,False,True,False,False,False,True,False
 3.0,4.820198530859772,2.0,3.0,True,True,False,False,False,False,True,False,True,False,False,True,False,True,False,True,False,True,False,False,False,True,True,True,False,False,False,True
 4.0,5.117236054131864,1.0,6.6070649279435125,False,False,False,True,False,False,False,True,False,False,True,False,False,True,False,True,False,True,True,False,True,False,False,True,True,False,False,False
@@ -1546,11 +1577,13 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 14.0,4.784132267587811,0.0,8.382300746500544,True,False,True,False,False,True,False,False,False,True,True,False,False,True,False,True,False,False,False,False,False,True,False,True,False,False,True,False
 13.0,5.119865903625126,1.0,10.246769035938938,True,False,False,True,False,True,True,False,False,False,False,True,False,True,False,False,False,False,True,False,True,False,False,False,False,False,True,False
 9.0,4.848348592407919,2.0,4.048238985584025,True,False,True,False,False,True,False,False,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False,False,True,False,False,True
+2.0,4.904534454563156,1.0,8.324888368547555,True,False,True,True,False,False,True,True,False,False,True,False,False,True,False,False,True,False,False,False,False,True,True,False,True,False,False,False
 9.0,5.164220733673893,3.0,9.526798939583555,False,False,False,False,False,True,True,False,True,False,False,True,False,True,False,False,False,False,False,False,False,False,True,False,True,False,False,False
 8.0,5.093606968218404,3.0,3.0,False,True,False,False,True,True,True,False,True,False,False,False,True,False,True,True,False,True,True,False,True,False,False,False,True,False,True,False
 2.0,5.046688577341151,2.0,12.0,False,True,False,True,False,False,False,False,True,False,False,False,False,True,False,False,True,False,True,False,True,False,False,True,False,False,False,False
 7.0,5.038317856862262,0.0,3.0,True,False,False,True,True,False,False,True,False,False,False,True,False,False,False,False,True,True,True,False,False,True,False,True,True,False,False,True
 9.0,4.910030298532788,1.0,5.493542458265507,True,True,False,True,False,True,False,True,True,False,False,False,True,True,False,True,False,False,False,False,False,True,False,False,True,False,True,False
+7.0,4.890690370913031,0.0,8.250162856473857,True,True,True,True,False,True,False,True,False,False,True,False,False,True,False,False,True,False,True,False,True,False,True,True,False,True,False,False
 14.0,4.811355668773449,1.0,8.587886262482744,False,True,True,True,False,True,True,False,True,False,True,False,False,True,False,True,True,False,True,False,False,True,True,False,True,False,False,True
 9.0,4.826950232610437,3.0,4.830676316414113,False,False,False,True,False,False,False,True,True,False,False,False,False,True,False,True,False,False,False,True,False,False,False,True,False,False,False,False
 0.0,4.756976013387682,0.0,5.277686548980388,True,True,True,True,False,False,True,False,False,True,False,True,False,True,False,True,True,False,True,False,False,False,False,True,False,False,False,False
@@ -1621,6 +1654,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 13.0,4.643259738118991,2.0,5.030681246187696,False,True,True,False,False,False,True,True,False,True,True,False,False,True,False,False,True,True,False,False,False,False,True,False,True,False,False,False
 6.0,4.45482357825404,4.0,8.595691292672116,True,True,False,False,False,True,True,True,False,True,True,False,False,True,False,True,True,False,False,True,True,False,True,False,False,False,True,False
 12.0,4.824250790518232,4.0,10.229556324960187,True,True,True,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,True,False,False,True,True,False,False,True,False,False
+13.0,4.7498712853597045,0.0,8.390420929996118,True,False,False,False,True,True,True,False,False,True,False,True,False,False,False,False,False,False,True,False,True,False,True,True,False,False,False,True
 14.0,4.9686763288624345,1.0,11.311890689394724,False,False,False,True,False,False,False,False,False,True,True,False,False,True,False,True,True,False,True,False,False,True,False,True,False,False,False,False
 14.0,4.785919939446568,4.0,12.0,False,False,False,False,True,False,True,True,True,False,False,False,True,False,True,True,False,True,True,False,True,False,True,False,False,False,False,False
 4.0,4.8227875420608655,3.0,7.7842112947212,False,False,False,False,True,True,False,False,False,False,False,False,True,False,False,True,True,True,False,True,False,False,True,True,False,False,False,True
@@ -1670,6 +1704,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 2.0,5.245135111000062,2.0,8.931187020925382,False,False,False,True,True,True,False,False,False,True,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
 5.0,5.027780578827273,2.0,5.7911842908453695,False,True,False,True,False,False,False,True,True,False,True,False,False,True,False,False,False,True,True,False,False,True,True,False,True,False,True,False
 3.0,4.945319930055073,3.0,10.365041600892596,True,False,True,False,False,True,True,True,False,True,False,False,True,True,False,True,True,False,True,False,False,False,False,False,True,False,False,False
+2.0,4.868622074233981,3.0,5.101413652430541,True,False,False,True,False,False,True,False,True,False,False,True,False,True,False,True,True,False,True,False,True,False,False,True,False,False,False,True
 14.0,4.90558324737617,1.0,9.941835393388557,True,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,True,True,False,True,False,False,False,True,True,False,False,False
 8.0,4.86280224577831,0.0,4.499677279344481,False,False,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,True,False,False,True,False,True,False,False
 14.0,4.636435851535485,3.0,4.907202104588137,True,True,True,True,False,True,False,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False,True,False,False
@@ -1776,6 +1811,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 5.0,4.889032429379147,3.0,11.082710449518288,False,True,False,False,False,True,True,True,False,False,False,False,True,True,False,True,False,False,False,False,False,True,True,True,False,False,False,True
 6.0,4.567650826177502,2.0,9.650794678695489,False,False,False,False,False,False,False,False,False,True,False,False,True,True,False,True,True,True,False,False,False,False,True,True,True,False,False,True
 9.0,4.5514232016674026,4.0,6.6764085228083045,True,True,False,False,False,False,False,False,True,False,False,True,False,True,False,False,False,True,False,False,False,True,True,False,False,False,True,False
+0.0,4.727626648866623,0.0,11.015609863108738,False,True,True,True,False,True,False,True,True,False,False,False,True,True,False,False,True,True,False,True,False,False,False,True,True,False,True,False
 8.0,4.510183279899717,0.0,4.5940157767899485,False,False,False,True,True,True,False,False,True,False,False,True,False,False,True,True,False,True,True,False,True,False,True,True,False,False,True,False
 0.0,5.058754595438831,2.0,5.704965508838088,False,False,True,False,True,True,True,False,True,False,False,False,False,False,True,True,False,True,True,False,False,True,True,False,True,False,False,True
 2.0,5.252625376651218,1.0,10.014759048895936,True,True,True,False,True,True,False,True,False,True,True,False,False,False,False,False,False,True,False,False,False,True,True,True,True,False,False,False
@@ -1895,8 +1931,10 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 12.0,5.0124034771513,3.0,7.262984762035747,False,True,True,False,True,False,False,True,False,True,False,False,False,False,True,True,True,True,True,False,True,False,True,True,False,False,True,False
 6.0,4.729878171652863,0.0,5.760342280629686,True,False,False,True,True,True,True,True,False,True,False,False,True,False,False,True,False,False,True,False,True,False,True,False,True,True,False,False
 9.0,4.541967145713186,3.0,11.910982310020172,True,True,True,True,False,True,False,False,True,False,True,False,False,True,False,False,True,False,True,False,True,False,False,True,True,True,False,False
+12.0,4.680164685715366,2.0,6.25317543362101,True,False,True,False,True,True,False,True,False,True,True,False,False,False,True,True,False,True,True,False,True,False,True,True,True,False,False,False
 3.0,5.1606225866450135,2.0,6.305453036495467,True,True,True,True,False,False,False,True,True,False,False,False,False,True,False,True,False,True,False,False,True,False,True,False,False,False,False,False
 8.0,4.560989019099855,3.0,9.037571552312397,False,True,True,False,False,True,False,True,True,False,False,False,True,True,False,False,False,True,True,False,False,True,False,False,False,False,False,True
+3.0,4.850500296976227,0.0,6.85285028251047,False,False,False,False,False,True,True,True,True,False,True,False,False,True,False,True,True,True,True,False,False,True,True,False,True,False,False,False
 3.0,5.06086514232892,2.0,5.290960284669759,False,False,True,True,True,True,False,False,False,True,False,True,False,False,False,False,True,False,False,False,True,False,True,True,True,False,False,False
 13.0,4.853615774987588,0.0,9.6619521291122,False,False,False,True,False,False,True,True,False,False,True,False,False,True,False,True,True,False,False,False,True,False,False,False,True,False,True,False
 11.0,4.778166665454492,1.0,5.586758065805997,False,True,True,True,True,True,False,False,False,True,True,False,False,False,False,True,False,False,True,False,True,False,False,True,False,False,False,False
@@ -1927,6 +1965,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 0.0,4.77502421271196,4.0,7.16642738379997,True,False,True,False,True,True,True,True,True,False,False,True,False,False,True,True,False,True,True,False,True,False,True,True,False,False,False,False
 7.0,4.75767262988678,0.0,8.260544976713483,False,True,True,False,False,False,True,True,True,False,False,False,True,True,False,True,False,False,True,False,True,False,False,True,True,False,False,True
 14.0,5.1299449186445205,1.0,7.12305644020808,False,True,True,True,True,False,False,False,True,False,False,True,False,False,True,True,False,True,True,False,True,False,True,True,False,False,False,False
+0.0,5.025034376766362,1.0,6.9373889409726806,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,True,True,False,False,False,False,True,True,False,False,True,False
 3.0,4.654411417573623,3.0,3.0,False,False,True,False,True,False,False,False,True,False,False,False,False,False,True,False,True,False,False,False,True,False,False,False,True,False,False,True
 4.0,5.2512222165575855,4.0,9.713279497915185,False,False,True,False,True,False,False,False,False,True,False,False,False,False,True,False,False,False,False,True,True,False,True,True,True,True,False,False
 0.0,4.84952279440372,2.0,10.02622827201043,True,True,True,False,False,True,False,True,False,True,False,True,False,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False
@@ -1951,6 +1990,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 4.0,4.7528991043125774,2.0,11.659135509480144,True,False,True,False,True,False,True,False,True,False,False,False,False,False,True,True,False,False,True,False,True,False,False,True,False,False,True,False
 8.0,5.118028079701661,2.0,6.961668645162384,False,False,False,False,True,True,True,True,False,True,False,False,False,False,True,True,False,True,False,False,True,False,True,True,False,True,False,False
 11.0,4.85074411282213,4.0,11.251021974766408,True,False,False,False,True,True,False,False,False,True,False,False,False,False,True,False,False,False,True,False,False,True,True,False,True,False,False,True
+5.0,4.9358161874995305,1.0,12.0,False,True,False,False,False,False,True,True,False,True,False,True,False,True,False,False,False,True,True,False,False,False,False,True,False,True,False,False
 6.0,4.81985045688588,1.0,7.385369972868543,True,False,False,False,False,True,False,False,False,True,True,False,False,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False
 8.0,4.848723756746908,1.0,9.567473198982118,True,False,False,False,True,False,False,False,True,False,False,False,False,False,False,True,True,True,True,False,True,False,False,True,False,False,True,False
 12.0,5.010306382777212,1.0,10.478721152209724,False,True,True,True,True,True,True,False,False,True,False,False,False,False,False,False,True,True,True,False,False,False,True,True,True,False,False,False
@@ -2059,6 +2099,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 1.0,4.408521580111349,0.0,7.301590887960027,False,False,False,False,True,False,True,True,False,True,False,False,True,False,False,True,False,True,False,True,False,False,True,True,False,False,False,False
 13.0,4.732629588022626,2.0,3.0,False,False,True,True,False,False,False,False,True,False,False,False,True,True,False,False,True,False,False,True,True,False,True,False,True,True,False,False
 10.0,4.969594306725493,2.0,7.951325574039885,False,False,False,False,False,True,True,False,False,False,True,False,False,True,False,False,True,False,True,False,True,False,True,False,True,True,False,False
+7.0,5.138046320680561,3.0,6.668240925841937,False,True,False,True,False,True,True,False,True,False,True,False,False,True,False,False,True,False,False,True,True,False,True,True,False,True,False,False
 9.0,4.870652423248727,4.0,8.970533512560262,False,False,False,True,False,False,True,False,False,True,False,False,True,True,False,True,False,False,False,True,True,False,True,True,True,False,True,False
 13.0,4.667370714357388,3.0,6.4501157610272015,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False
 9.0,4.796766419650816,2.0,6.263589191524282,True,True,False,True,True,True,True,True,True,False,False,True,False,False,True,True,False,False,True,False,True,False,False,False,True,False,False,False
@@ -2126,6 +2167,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 1.0,5.1371543008058165,2.0,8.944903934191688,True,True,False,True,False,True,False,False,False,False,True,False,False,True,False,True,True,False,True,False,False,False,False,False,False,True,False,False
 7.0,4.812969535928802,2.0,4.738656119737828,True,False,False,False,False,False,True,False,False,True,False,True,False,True,False,False,False,False,False,True,False,False,True,False,False,False,True,False
 10.0,4.887351430943228,0.0,5.362705683308823,True,True,False,False,False,False,False,True,False,True,False,False,True,True,False,True,True,False,True,False,False,True,True,False,False,False,False,True
+0.0,4.9015118354070735,2.0,6.396592018080999,False,False,True,True,False,False,False,True,False,True,False,False,True,True,False,True,False,True,False,False,False,True,False,False,False,False,False,True
 12.0,4.786058455474612,1.0,3.0,True,True,True,False,False,False,True,True,False,False,False,False,False,True,False,True,True,True,True,False,False,True,False,False,True,False,False,True
 13.0,5.1054786153748415,2.0,10.972587159143284,True,True,True,True,False,True,True,True,False,False,False,True,False,True,False,True,True,False,True,False,True,False,True,False,False,True,False,False
 4.0,5.08233575980036,4.0,5.986247435809663,True,False,False,False,True,True,True,False,False,True,True,False,False,False,True,True,True,False,True,False,False,True,True,False,True,True,False,False
@@ -2234,11 +2276,13 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 1.0,5.186940307534576,3.0,4.4993836405016205,True,False,False,True,False,True,False,False,False,True,True,False,False,True,False,True,True,False,False,False,False,False,True,True,True,False,True,False
 7.0,5.117616074120538,2.0,11.999292927699544,False,True,True,False,False,False,True,True,False,False,False,False,True,True,False,True,False,False,True,False,False,True,True,True,True,False,True,False
 2.0,4.591150098698776,4.0,9.31217306355268,False,False,True,False,False,True,True,False,False,False,False,True,False,True,False,True,True,False,False,False,False,False,False,True,False,True,False,False
+13.0,4.762082696670844,0.0,8.825735494404542,True,True,True,False,False,True,False,True,True,False,False,False,True,True,False,True,True,False,False,False,True,False,False,True,False,False,False,False
 12.0,4.819468078509773,0.0,3.993358639780389,True,True,True,False,False,True,False,False,False,False,False,True,False,True,False,False,True,True,False,False,False,True,True,False,True,True,False,False
 0.0,5.097342354315027,3.0,7.434295329301628,True,False,True,True,True,True,False,True,True,False,True,False,False,False,False,True,False,False,False,True,True,False,False,True,True,True,False,False
 10.0,4.8263919923925735,4.0,6.471336655874,True,False,True,False,False,True,True,True,False,True,False,False,True,True,False,True,True,True,False,False,False,True,True,True,True,True,False,False
 12.0,4.700688949837122,1.0,5.65402170408208,True,False,True,False,False,False,True,False,False,False,False,True,False,True,False,False,False,False,True,False,False,True,True,True,False,False,False,False
 14.0,5.033184314569947,3.0,6.547223221763022,True,False,True,False,True,False,False,True,False,False,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
+8.0,5.158114840636295,2.0,10.5614078737088,False,True,True,False,False,False,False,True,True,False,False,False,False,True,False,False,True,True,False,True,True,False,False,True,True,False,False,True
 10.0,4.99088790817176,1.0,6.301332606269094,True,False,True,False,False,True,False,False,False,False,False,False,True,True,False,True,True,False,True,False,False,False,False,True,True,False,False,True
 13.0,5.25937760301884,1.0,6.69850474482587,False,True,True,True,True,True,False,False,True,False,True,False,False,False,False,False,True,True,True,False,True,False,False,False,False,False,False,False
 5.0,4.732290467605622,0.0,6.294998070757472,True,True,False,False,False,True,False,True,False,True,False,False,True,True,False,False,False,True,True,False,False,False,False,True,False,True,False,False
@@ -2266,6 +2310,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 1.0,4.993477431012237,3.0,11.573373269269702,True,False,True,False,True,False,False,True,False,True,False,False,False,False,True,False,False,False,False,False,True,False,False,True,True,False,False,True
 8.0,4.740113608294633,3.0,3.0,True,False,True,False,True,True,False,True,False,True,False,False,False,False,False,True,False,True,False,True,False,True,True,True,True,False,True,False
 14.0,4.768813431482563,4.0,8.980392113991222,True,False,True,False,False,False,False,False,True,False,True,False,False,True,False,True,True,True,True,False,True,False,True,True,False,False,False,True
+7.0,4.868457192086871,0.0,6.430546105247487,False,True,True,True,True,True,False,True,False,True,False,False,True,False,True,False,False,False,False,False,True,False,True,False,True,False,False,True
 4.0,5.111451758836101,1.0,7.705318977135844,False,False,False,True,True,False,False,True,True,False,False,True,False,False,True,False,False,False,False,True,False,False,False,True,True,False,False,True
 12.0,4.877305580686404,4.0,6.078708753686839,False,True,True,True,True,True,True,False,True,False,False,False,True,False,False,False,False,True,True,False,True,False,True,True,False,False,False,True
 2.0,4.92029019609576,2.0,6.9363589982074725,True,False,False,False,True,True,False,False,False,False,False,False,False,False,True,False,True,True,True,False,True,False,True,False,True,False,False,True
@@ -2317,6 +2362,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 11.0,4.8718993209751735,1.0,7.334462181365822,False,True,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,True,False,True,False,True,True,False,True,False,False
 11.0,4.6230731336243895,3.0,7.81842255607425,True,False,True,False,False,True,False,False,False,False,False,False,True,True,False,True,True,True,True,False,True,False,False,True,False,False,False,True
 12.0,4.918316188024607,0.0,6.317280951299857,False,True,False,False,False,False,False,True,False,False,True,False,False,True,False,False,False,False,False,False,True,False,True,True,True,False,False,True
+12.0,5.020186113938504,2.0,8.625919925435348,False,False,False,False,False,False,False,True,True,False,False,False,False,True,False,True,False,True,False,False,True,False,True,True,False,True,False,False
 12.0,5.28850265074242,0.0,4.09935025797912,False,False,True,False,False,False,True,False,True,False,True,False,False,True,False,True,True,False,False,True,False,True,True,True,True,True,False,False
 12.0,4.937382296896817,4.0,7.085926542571657,True,True,True,True,False,False,True,True,False,False,False,True,False,True,False,True,True,False,False,False,False,True,True,True,False,False,False,False
 14.0,4.732165072705096,1.0,9.502741713748753,False,False,False,False,True,True,False,True,False,True,False,False,True,False,True,True,True,True,False,True,True,False,False,True,True,True,False,False
@@ -2510,6 +2556,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 2.0,4.893237289674257,0.0,5.296880252698752,False,True,True,True,True,False,True,True,False,False,False,True,False,False,False,True,True,True,True,False,True,False,True,False,False,True,False,False
 13.0,4.949877350089653,3.0,11.91778863223116,True,False,True,True,False,True,False,True,False,False,False,False,True,True,False,True,True,False,False,False,False,False,False,False,False,False,False,True
 14.0,4.901058268634615,3.0,10.021299272962436,False,False,True,False,False,True,True,False,False,False,False,True,False,True,False,False,True,False,True,False,True,False,True,False,True,False,False,True
+8.0,4.874532881341756,4.0,6.006043001112452,False,True,True,False,False,True,True,False,False,True,False,False,False,True,False,True,True,True,False,True,True,False,False,False,False,True,False,False
 2.0,4.772740334169372,4.0,6.006136546790488,True,True,True,True,True,True,True,False,False,False,False,False,True,False,True,False,True,True,False,False,False,False,True,True,True,False,True,False
 12.0,5.106448127125492,2.0,6.858601757725504,False,True,True,False,False,True,False,False,False,True,False,False,True,True,False,False,False,True,True,False,False,False,False,False,False,True,False,False
 8.0,4.803235910498501,3.0,10.930433385513924,False,True,True,True,False,True,False,True,False,False,False,False,False,True,False,False,False,False,False,True,False,True,False,True,False,False,False,True
@@ -2574,6 +2621,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 12.0,4.66793703145666,3.0,3.038651686408725,True,False,True,True,True,True,False,True,False,True,False,True,False,False,True,False,False,False,False,False,False,False,True,True,False,False,False,False
 3.0,4.871403967205434,3.0,4.237631562518672,True,False,False,True,True,True,False,True,False,False,False,False,False,False,True,False,False,True,True,False,True,False,True,True,False,False,False,False
 1.0,4.837693765414398,2.0,4.156480558481855,False,True,False,True,False,False,True,True,False,True,False,False,True,True,False,True,False,False,False,False,False,True,True,False,False,True,False,False
+14.0,4.760842710343615,4.0,5.8975007529255965,True,False,True,False,True,False,False,True,False,False,False,True,False,False,False,False,True,False,True,False,False,False,False,True,False,True,False,False
 8.0,4.779476573634998,4.0,7.027285701992098,True,False,True,False,False,False,True,True,True,False,True,False,False,True,False,False,False,True,False,True,False,True,True,False,False,True,False,False
 13.0,4.740411900939166,4.0,6.0029634946645904,False,False,True,True,False,True,False,True,True,False,False,False,False,True,False,True,True,True,False,True,False,False,False,False,True,False,True,False
 2.0,4.492868826566548,3.0,8.36675131314404,True,False,False,False,True,True,True,False,False,False,False,False,True,False,False,False,True,True,True,False,True,False,True,True,True,False,True,False
@@ -2610,6 +2658,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 13.0,4.944900942903333,1.0,6.4796983194665225,True,False,True,True,False,True,False,False,False,True,False,False,False,True,False,True,False,False,True,False,False,False,True,False,True,True,False,False
 2.0,4.7802415314149975,1.0,6.688195589792284,True,True,False,False,True,True,True,False,True,False,False,False,False,False,False,True,True,True,False,True,True,False,False,False,False,True,False,False
 5.0,4.814358607083761,0.0,5.823103318480058,True,True,False,True,True,True,True,True,False,True,True,False,False,False,True,True,False,False,False,True,False,False,False,False,True,True,False,False
+5.0,5.120529636176184,4.0,7.025872017684151,False,True,False,True,True,True,False,False,False,False,False,True,False,False,True,False,False,True,False,True,False,False,False,False,False,False,True,False
 5.0,4.889125642778937,3.0,10.083848548910156,True,False,True,False,False,False,False,True,False,False,False,False,False,True,False,False,True,True,True,False,False,True,False,False,False,True,False,False
 13.0,4.639474464257757,2.0,12.0,True,True,True,False,True,False,False,False,False,False,False,False,True,False,False,False,True,True,True,False,False,False,True,True,False,False,True,False
 6.0,4.666800653429711,3.0,5.5898682978165,False,True,False,False,False,True,True,False,False,True,False,True,False,True,False,True,True,False,True,False,False,True,True,False,False,False,False,False
@@ -2629,6 +2678,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 14.0,4.807917784568074,3.0,6.422632836681615,False,False,False,False,True,True,False,False,False,True,True,False,False,False,False,False,True,False,True,False,False,True,False,False,True,False,False,True
 4.0,5.217079857014627,4.0,3.4696098018943617,True,False,True,True,True,False,False,False,True,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,False,False,True,False
 14.0,4.646654657815526,1.0,5.124337196764136,True,False,True,True,True,True,False,False,False,False,False,False,False,False,False,True,True,True,False,True,True,False,True,False,False,False,False,True
+1.0,4.5810238356624975,2.0,5.540706344778647,True,False,True,False,True,False,True,True,True,False,False,False,True,False,False,False,False,True,True,False,False,True,True,True,True,False,True,False
 14.0,5.553951564028371,1.0,8.29451431546921,True,False,False,True,True,True,False,False,False,False,False,False,True,False,True,True,False,True,True,False,False,False,False,True,False,False,True,False
 0.0,4.36092942155315,0.0,6.333912782954688,True,False,True,False,False,True,False,False,False,False,True,False,False,True,False,False,True,True,True,False,False,False,True,True,True,False,False,True
 4.0,4.924865556318125,3.0,7.071260899992211,True,True,True,True,False,False,False,False,False,False,False,False,True,True,False,False,False,True,False,False,False,True,True,False,False,False,False,True
@@ -2646,6 +2696,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 3.0,5.108899190005051,1.0,12.0,True,False,False,False,True,True,True,False,True,False,False,True,False,False,False,True,True,False,True,False,True,False,False,False,False,False,False,False
 8.0,4.648664428101871,0.0,4.5476472584650285,True,False,False,True,False,False,False,False,True,False,False,False,False,True,False,True,False,True,True,False,True,False,False,False,False,False,False,True
 10.0,5.3670507059250525,1.0,4.742726537883439,False,True,True,False,True,True,False,True,False,False,False,False,False,False,True,True,False,True,False,True,False,True,True,True,False,False,False,True
+14.0,5.160264095979047,0.0,8.988151583842674,True,True,True,True,False,True,False,False,False,False,True,False,False,True,False,False,True,True,False,False,False,True,False,True,False,False,True,False
 9.0,5.017970326945872,4.0,10.237324928637156,True,False,False,False,False,False,True,False,False,True,True,False,False,True,False,True,True,False,False,True,True,False,False,False,True,False,True,False
 14.0,4.989242255806441,0.0,5.092120772667262,True,False,False,False,False,False,True,True,False,True,False,False,False,True,False,False,False,False,True,False,True,False,True,False,True,False,False,False
 2.0,4.683303725962653,3.0,5.890850139227524,False,False,True,True,True,True,True,False,True,False,False,False,False,False,True,True,True,False,True,False,True,False,True,False,False,False,True,False
@@ -2653,6 +2704,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 7.0,4.922877427948038,4.0,6.6365693546790405,False,False,True,False,True,True,False,False,False,True,False,True,False,False,True,False,False,True,True,False,False,False,False,True,True,False,False,True
 12.0,4.9584007182258985,3.0,8.028707242453097,True,True,False,False,False,True,False,False,True,False,False,False,False,True,False,True,False,False,False,False,True,False,True,False,True,False,False,True
 14.0,4.649645765252909,1.0,6.640219131010876,True,True,True,True,True,True,False,True,True,False,False,False,False,False,True,True,True,True,True,False,False,False,True,True,True,False,False,False
+4.0,4.5190264405538745,3.0,9.570875292401618,True,False,True,True,False,True,False,False,True,False,True,False,False,True,False,True,False,True,False,True,True,False,False,True,True,True,False,False
 1.0,4.736896207199228,3.0,10.288153679163512,True,True,True,False,False,True,True,True,False,False,False,True,False,True,False,True,True,False,True,False,False,False,False,False,False,False,False,False
 7.0,5.152353468202215,1.0,11.157594478421354,True,False,False,True,False,True,True,False,False,False,True,False,False,True,False,True,True,True,True,False,True,False,False,True,False,False,True,False
 1.0,4.717625738388088,1.0,8.616794536314561,True,True,True,True,False,False,False,False,True,False,False,False,False,True,False,False,False,True,False,True,False,False,True,False,False,False,True,False
@@ -2711,6 +2763,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 14.0,5.019731395417281,0.0,11.654091455378234,True,True,False,False,False,False,True,True,False,True,False,False,True,True,False,True,True,False,False,True,True,False,True,False,True,True,False,False
 2.0,4.946760482485868,2.0,5.7538317462373785,False,False,True,False,False,True,True,True,False,True,False,False,False,True,False,False,False,True,True,False,False,True,True,True,True,True,False,False
 0.0,4.921859242470532,2.0,8.514538886788069,False,False,False,False,True,True,False,False,False,True,False,True,False,False,True,True,True,True,False,False,True,False,False,False,False,False,False,True
+4.0,4.684549562377356,0.0,8.457352127349479,True,False,False,True,False,False,True,True,False,True,False,False,True,True,False,False,True,False,True,False,True,False,True,True,True,False,True,False
 1.0,4.888563586552388,2.0,10.3083680572319,True,False,True,True,False,True,False,False,False,False,False,False,False,True,False,False,False,False,True,False,True,False,True,False,True,False,False,True
 3.0,4.735500385798951,4.0,7.646547421772484,True,True,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,True,False,True,False,True,False,True,False,False,True
 13.0,5.07234189894171,2.0,4.893583280161133,True,True,True,False,False,False,True,False,False,False,False,True,False,True,False,False,False,True,True,False,False,True,True,True,False,False,False,False
@@ -2756,6 +2809,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 10.0,4.9461765056416125,2.0,10.231846643677445,False,False,False,True,True,False,False,False,False,False,True,False,False,False,False,False,True,False,True,False,False,False,False,True,False,False,True,False
 3.0,4.925181709110073,0.0,3.0,True,True,True,False,False,True,False,False,False,True,False,False,False,True,False,True,True,False,False,True,False,False,True,False,True,True,False,False
 10.0,4.881968480711501,4.0,12.0,True,True,False,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,True,False,False,False,True,False,False,True,False
+10.0,4.768793525112828,3.0,12.0,True,False,False,True,True,True,True,True,True,False,True,False,False,False,True,True,True,False,True,False,True,False,False,True,False,True,False,False
 7.0,4.882177836841108,0.0,5.063275863384052,True,True,False,False,False,True,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,True,True,True,False,True,False,False
 9.0,4.693794640028374,2.0,4.453697261642397,False,True,True,True,False,True,False,True,True,False,False,False,False,True,False,True,True,False,True,False,True,False,True,True,False,False,False,True
 3.0,4.878938035022187,1.0,12.0,True,False,True,True,False,True,True,False,False,False,False,True,False,True,False,True,True,True,False,True,False,False,False,False,True,False,False,True
@@ -2828,6 +2882,8 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 7.0,4.615702864362364,4.0,3.932778481536112,True,True,True,True,True,False,True,False,False,True,False,False,True,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False
 11.0,4.607951649388904,0.0,3.797834536193209,True,False,False,False,False,True,False,True,False,False,True,False,False,True,False,False,True,False,True,False,True,False,False,False,True,False,False,False
 2.0,4.892406596351119,2.0,10.984461550379995,True,False,True,False,True,True,True,False,False,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False
+3.0,4.928232483601775,4.0,9.144464304375294,False,True,True,False,False,True,False,False,False,False,False,False,False,True,False,True,True,True,False,False,False,False,True,True,True,False,True,False
+0.0,4.895446146149227,4.0,8.445108915860061,False,False,False,True,False,False,True,True,False,True,False,False,False,True,False,True,False,False,False,True,False,True,False,True,False,False,True,False
 6.0,4.729022481431357,4.0,12.0,False,True,True,True,True,False,False,True,False,True,True,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,True,False
 10.0,4.71266205721989,4.0,3.730994722382755,True,False,False,False,False,False,True,False,False,False,False,True,False,True,False,True,True,False,False,True,True,False,False,True,True,False,True,False
 9.0,5.014820469978316,1.0,7.403314042971381,False,False,True,True,True,False,True,True,False,True,False,False,True,False,False,True,False,False,True,False,True,False,False,True,False,True,False,False
@@ -2900,6 +2956,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 9.0,4.858935797035809,1.0,11.288037190565609,True,True,False,True,True,True,True,True,True,False,False,False,True,False,True,True,True,True,False,True,True,False,False,False,True,False,False,False
 6.0,4.975599147119757,2.0,3.1299826639894697,False,False,True,True,True,True,True,True,False,True,False,True,False,False,False,True,True,True,False,True,False,False,True,False,False,False,True,False
 14.0,4.739796239873468,0.0,7.097464269890997,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,True,False,True,True,False,False,True,True,True,True,True,False,False
+11.0,5.075458570337672,2.0,8.875764012851851,False,False,False,True,False,True,True,True,False,False,False,False,True,True,False,False,False,True,True,False,True,False,True,False,True,False,False,False
 9.0,4.826582732835844,4.0,5.878205827370384,False,True,False,True,False,True,True,True,False,True,False,False,False,True,False,False,True,True,False,True,True,False,False,False,True,True,False,False
 0.0,5.197098457020001,3.0,5.442496476269599,False,False,True,False,False,False,True,False,True,False,True,False,False,True,False,False,False,False,False,True,True,False,True,True,True,False,True,False
 10.0,4.946506444953843,2.0,7.939915631021317,True,False,True,True,True,True,True,False,False,True,False,False,True,False,True,False,True,True,False,True,True,False,False,True,True,False,False,False
@@ -3000,6 +3057,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 6.0,4.963056346744345,2.0,7.834505017805997,True,True,True,True,False,True,False,False,False,False,False,False,True,True,False,False,False,False,True,False,True,False,True,True,False,True,False,False
 8.0,5.023149134524567,4.0,6.250809080298081,True,True,False,False,False,True,True,False,True,False,False,False,True,True,False,False,False,True,True,False,False,True,True,False,False,True,False,False
 9.0,4.725442464355559,2.0,10.639607320752605,False,True,True,False,True,True,False,False,False,False,False,True,False,False,True,True,True,True,True,False,True,False,False,False,False,False,True,False
+8.0,4.894587707392487,2.0,4.997758446179011,True,True,False,False,False,False,False,True,True,False,True,False,False,True,False,False,False,True,False,True,False,True,False,False,False,False,False,False
 9.0,4.860806731593259,3.0,6.0056134582331895,True,True,True,False,False,False,True,False,False,True,False,False,True,True,False,False,True,True,False,True,True,False,True,True,True,False,False,True
 12.0,4.5735516532958576,0.0,4.211691529725291,False,True,True,False,False,False,False,True,False,True,False,False,False,True,False,True,True,True,False,True,False,True,False,True,False,False,False,True
 3.0,5.174636733795501,4.0,7.038164623843919,True,False,True,False,True,True,True,False,False,True,True,False,False,False,False,False,True,False,True,False,True,False,False,False,True,True,False,False
@@ -3024,6 +3082,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 6.0,5.135488494539904,1.0,8.594670137006931,True,False,False,True,True,False,False,True,False,False,False,True,False,False,False,True,False,False,True,False,True,False,True,True,False,True,False,False
 4.0,4.800049458865749,0.0,6.74469689526342,True,True,False,False,False,False,False,True,False,True,True,False,False,True,False,True,False,False,True,False,True,False,False,True,True,False,True,False
 3.0,5.129721890276345,3.0,7.54937813262854,False,False,False,False,False,True,False,True,False,False,False,False,True,True,False,False,False,False,False,True,True,False,False,False,False,False,True,False
+13.0,4.4485682079906335,1.0,8.740785584865801,False,True,True,False,True,True,True,True,False,True,False,True,False,False,False,True,False,False,True,False,True,False,True,False,True,False,False,False
 5.0,4.873992359835072,3.0,5.621462953213412,False,False,True,False,False,True,False,False,False,True,False,False,True,True,False,False,False,True,False,False,False,False,True,True,True,False,False,True
 3.0,5.056731917917197,1.0,11.058993333634842,False,False,True,False,False,False,True,True,False,True,True,False,False,True,False,True,True,False,False,False,False,False,False,False,True,False,False,True
 1.0,4.700982737002579,1.0,8.545034081619777,False,False,False,True,False,True,True,True,False,True,False,True,False,True,False,True,False,False,False,True,True,False,False,False,True,False,True,False
@@ -3044,6 +3103,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 8.0,5.396974253864067,3.0,8.396503145453075,True,True,True,True,False,True,True,False,False,False,True,False,False,True,False,True,False,False,False,False,True,False,True,True,False,False,True,False
 14.0,5.1104230909739385,4.0,4.1568480404420765,True,False,True,False,False,True,False,True,False,True,True,False,False,True,False,True,True,False,True,False,True,False,True,False,True,False,False,False
 9.0,4.6158129802561385,4.0,6.392555596971119,True,True,True,True,False,False,False,False,True,False,False,False,False,True,False,True,True,False,False,False,False,True,False,True,True,False,False,True
+14.0,4.903393969959937,1.0,5.366118929051217,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True,True,False,True,False,True,True,False,True,False,False
 7.0,4.8721221507570585,0.0,6.500372019297168,True,True,False,True,False,True,False,False,False,True,False,False,True,True,False,True,False,True,True,False,False,True,False,False,True,True,False,False
 6.0,4.968696010383653,2.0,3.0,False,True,False,False,False,True,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,True,False,False,True,False,False,False
 9.0,4.704471462933379,3.0,12.0,False,True,False,True,True,False,True,False,False,False,False,False,True,False,False,True,False,False,False,True,True,False,False,False,True,False,True,False
@@ -3071,6 +3131,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 2.0,4.961870302341222,0.0,10.782825286024334,True,True,True,False,True,True,False,True,True,False,False,True,False,False,True,False,False,False,True,False,False,True,True,False,False,False,False,False
 3.0,5.013695844542936,2.0,5.506912900109223,False,False,True,False,True,False,True,False,True,False,True,False,False,False,True,False,True,True,False,True,True,False,True,True,True,False,True,False
 5.0,5.017882200118512,2.0,3.0,True,False,False,True,False,False,False,False,True,False,True,False,False,True,False,True,False,False,False,False,False,True,True,False,True,False,False,True
+7.0,4.710556766294364,1.0,6.7033419531491605,True,True,False,False,False,True,True,True,False,True,True,False,False,True,False,False,True,True,False,False,True,False,False,False,True,False,True,False
 13.0,5.091636578225167,4.0,8.056534293813026,True,False,True,False,False,True,False,True,False,True,False,False,True,True,False,False,True,True,True,False,False,True,True,False,False,False,False,True
 12.0,5.022531255123308,3.0,8.290077686497561,False,False,False,True,False,True,True,True,True,False,False,True,False,True,False,False,False,True,False,True,False,False,True,True,False,False,False,False
 1.0,4.8379734041664015,1.0,3.1859583565713043,False,False,False,True,False,False,True,True,False,True,True,False,False,True,False,True,True,True,False,True,True,False,True,True,True,True,False,False
@@ -3165,6 +3226,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 5.0,5.023446937307146,2.0,6.850113859000995,True,False,False,True,True,False,True,True,True,False,False,False,True,False,True,True,False,True,False,False,False,False,False,True,False,False,False,False
 10.0,4.858314553879124,3.0,6.4203193916166565,True,True,True,False,False,False,True,False,False,False,False,True,False,True,False,True,True,True,True,False,False,False,False,False,False,True,False,False
 5.0,4.892700105295508,1.0,9.751724812384918,True,False,True,True,False,True,True,True,True,False,False,False,True,True,False,False,True,False,False,False,False,False,True,False,False,True,False,False
+11.0,4.939305535428787,0.0,7.767100499345293,False,True,True,False,True,True,False,True,False,False,True,False,False,False,True,False,True,False,False,False,False,False,False,True,True,False,False,True
 2.0,5.010549665938012,2.0,3.1475555549449448,True,True,True,False,False,True,False,False,False,False,False,False,True,True,False,True,False,True,False,False,True,False,False,False,False,True,False,False
 4.0,4.910559878873838,1.0,4.520664851744585,True,True,True,False,False,False,True,True,False,True,False,False,False,True,False,False,True,False,True,False,True,False,True,True,True,False,False,False
 4.0,4.8378013809502844,1.0,5.837487874866017,True,True,True,False,False,False,True,True,False,True,True,False,False,True,False,True,True,True,True,False,True,False,True,True,False,False,True,False
@@ -3201,7 +3263,9 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 7.0,5.123626450842881,1.0,7.0398032298724855,False,True,True,False,False,False,False,True,True,False,False,False,False,True,False,False,False,True,True,False,True,False,False,True,True,False,True,False
 8.0,4.867397640854241,2.0,8.243430762307844,True,False,True,False,False,True,True,True,True,False,False,False,True,True,False,True,True,False,True,False,True,False,True,True,False,False,True,False
 10.0,4.667621160009337,4.0,3.0,True,False,True,False,False,True,True,False,True,False,False,True,False,True,False,True,False,False,True,False,False,False,False,False,True,False,False,False
+14.0,4.9485212854737215,2.0,3.0,True,False,True,False,False,False,False,True,True,False,True,False,False,True,False,True,True,False,False,False,True,False,False,False,False,False,True,False
 0.0,4.725967503098282,0.0,5.38062800606374,False,False,False,False,True,True,False,False,True,False,False,True,False,False,False,False,False,True,True,False,False,False,True,False,True,False,False,True
+8.0,4.964275017275312,2.0,10.759519907514717,True,False,True,True,True,False,False,False,False,False,False,True,False,False,True,False,False,False,True,False,True,False,True,True,False,False,True,False
 14.0,4.777830752459503,1.0,12.0,True,True,True,True,False,False,True,False,True,False,True,False,False,True,False,True,True,True,True,False,True,False,False,False,True,True,False,False
 4.0,5.179434539235693,1.0,7.4422053907966115,True,False,True,False,False,False,True,True,False,True,True,False,False,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False
 4.0,5.000978573123804,4.0,9.645017397479542,True,False,False,True,False,True,False,True,True,False,False,False,True,True,False,True,False,True,False,True,True,False,False,True,False,False,True,False
@@ -3398,6 +3462,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 7.0,5.3413074203000654,1.0,10.337168937756577,True,False,True,True,False,False,False,False,False,True,False,True,False,True,False,False,True,True,True,False,False,False,False,False,True,True,False,False
 0.0,4.814452120404802,0.0,4.541316220639526,True,False,True,True,False,False,True,True,False,True,False,False,False,True,False,False,True,False,True,False,True,False,False,True,True,False,True,False
 14.0,5.066259718670674,2.0,3.0,True,False,False,True,False,True,False,True,True,False,True,False,False,True,False,True,False,False,True,False,True,False,True,False,True,False,False,False
+1.0,4.9845287537989496,4.0,3.0,True,True,True,True,False,True,True,True,False,False,False,True,False,True,False,False,False,False,True,False,True,False,True,True,True,False,False,False
 14.0,5.180206486344313,0.0,6.056664513855154,True,False,True,False,False,False,True,True,False,False,True,False,False,True,False,False,True,True,True,False,False,True,False,True,False,False,False,True
 0.0,4.877938774507259,2.0,6.608759172143634,True,False,False,False,False,True,True,True,True,False,True,False,False,True,False,True,True,True,False,False,True,False,False,False,False,False,False,True
 3.0,4.8801462230300405,0.0,6.514213733427527,False,False,False,True,False,False,True,False,False,False,False,True,False,True,False,True,False,True,False,True,True,False,True,True,True,True,False,False
@@ -3421,6 +3486,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 12.0,4.804144634703575,1.0,11.181018774441243,False,False,False,True,True,False,True,False,False,True,False,False,True,False,True,False,False,False,False,False,True,False,False,True,False,False,False,True
 2.0,4.845867221548046,1.0,8.488389158495927,True,False,True,False,False,True,False,False,True,False,False,True,False,True,False,False,True,True,False,True,False,True,True,True,False,False,True,False
 10.0,5.072353374382812,2.0,9.198983095706527,False,False,False,True,False,True,False,False,False,False,False,True,False,True,False,True,True,False,True,False,False,False,True,True,True,False,False,True
+7.0,4.996171430978655,3.0,10.340499749809345,True,True,False,False,False,False,True,False,False,True,True,False,False,True,False,False,True,False,False,False,False,False,True,False,True,False,True,False
 2.0,4.870252955711302,0.0,3.0,False,False,True,True,False,True,False,True,True,False,False,False,True,True,False,False,False,True,False,True,False,True,False,True,False,True,False,False
 10.0,4.737939005479039,3.0,8.909804298546273,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,True,False,True,True,False,False,False
 11.0,5.5193268956725845,4.0,8.115716638513721,True,False,True,False,False,True,False,False,True,False,True,False,False,True,False,True,True,False,True,False,True,False,False,False,True,False,True,False
@@ -3458,11 +3524,13 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 8.0,4.995243207019271,2.0,7.754546330461927,True,False,True,False,False,False,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,True,False,True,True,False,True,False
 5.0,5.279944094024584,0.0,7.668076724686638,True,True,False,True,False,False,False,False,True,False,True,False,False,True,False,False,True,False,False,True,False,False,True,True,False,True,False,False
 2.0,5.301852506912193,1.0,5.349571135127997,True,False,True,True,True,True,True,True,True,False,False,False,True,False,False,False,True,True,True,False,False,False,True,True,True,False,False,False
+13.0,5.047169611900803,3.0,7.604668650523576,True,False,False,False,True,False,False,False,False,True,True,False,False,False,False,True,True,True,False,True,False,True,False,True,False,False,True,False
 12.0,4.582421007674491,3.0,12.0,False,False,False,True,False,False,True,True,False,True,True,False,False,True,False,False,True,False,False,False,True,False,True,True,False,False,False,True
 12.0,5.152279742505207,1.0,8.368676426104688,True,False,True,True,False,False,False,False,False,False,True,False,False,True,False,True,True,False,True,False,False,False,True,True,True,False,True,False
 3.0,5.2550417963654255,0.0,10.290115362074395,False,False,True,True,True,True,False,True,True,False,False,False,False,False,True,False,True,False,False,True,False,True,True,False,False,False,True,False
 10.0,4.997479112995833,1.0,8.481081377166563,False,True,False,False,True,True,True,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,True,False,True,False,True,False
 6.0,4.8371802701615785,0.0,3.0,False,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,True,True,True,False,True,False,False,True,True,False,False,True
+6.0,5.2318039007990125,0.0,7.013105920008369,False,True,True,False,True,True,True,True,True,False,False,True,False,False,True,False,True,True,True,False,True,False,False,False,False,True,False,False
 7.0,4.787113930335146,4.0,7.278302583327073,True,False,False,False,False,False,False,True,False,False,False,True,False,True,False,False,False,False,True,False,False,False,False,False,True,False,True,False
 7.0,4.993165023813004,0.0,9.653393856429258,True,False,False,False,False,False,True,False,False,True,True,False,False,True,False,False,False,True,True,False,False,False,False,False,True,False,True,False
 1.0,4.948062563431215,0.0,9.21931982147168,True,True,True,False,False,False,False,True,False,True,False,False,True,True,False,False,True,True,False,False,True,False,True,True,False,False,False,True
@@ -3515,6 +3583,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 2.0,4.944913478782027,4.0,9.361657321670956,True,False,False,True,True,False,True,True,False,False,False,True,False,False,True,True,True,False,True,False,False,True,False,False,False,False,True,False
 13.0,4.764761912672838,1.0,8.393395567690034,True,True,True,True,True,True,False,True,False,True,True,False,False,False,False,False,True,True,True,False,False,False,False,False,True,False,False,False
 1.0,4.683604777030118,3.0,9.534197792201407,True,False,False,True,False,True,False,True,False,False,False,False,False,True,False,False,True,True,False,False,True,False,True,False,False,False,False,True
+8.0,5.09230711182436,3.0,9.9940923823494,False,True,False,True,False,False,True,True,False,False,False,True,False,True,False,False,True,True,True,False,False,False,True,False,True,False,False,False
 9.0,4.9042396847235725,4.0,4.963252098043001,False,True,False,True,False,True,True,True,False,True,False,False,False,True,False,True,False,True,False,True,False,False,False,True,True,False,True,False
 6.0,4.831694163039637,3.0,3.0,False,True,False,True,False,False,False,True,True,False,False,False,False,True,False,False,True,False,False,True,False,False,True,True,True,False,False,True
 2.0,4.994395085510806,1.0,5.564738927544013,True,False,True,False,False,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,True,False,False,False,False,True,False,False
@@ -3565,6 +3634,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 2.0,4.825460924489754,3.0,11.971936265580634,True,False,True,True,True,False,False,True,False,False,False,True,False,False,True,False,False,True,False,False,False,False,False,False,True,True,False,False
 0.0,4.6074338802273305,0.0,8.938140446033529,True,False,False,True,False,True,True,False,False,True,False,False,False,True,False,True,True,True,False,False,True,False,False,False,True,False,True,False
 8.0,4.818651245199439,3.0,3.8947756846212807,True,False,True,True,True,True,True,False,True,False,False,False,False,False,False,True,False,True,True,False,True,False,True,True,True,False,False,True
+12.0,4.892574168282115,4.0,9.87155946336418,True,True,False,True,False,True,False,True,True,False,True,False,False,True,False,True,True,False,True,False,True,False,True,True,False,False,True,False
 2.0,5.301583577579158,1.0,9.441627273921595,False,False,True,True,False,False,False,False,False,True,False,False,True,True,False,True,False,True,True,False,True,False,True,False,False,False,False,True
 12.0,4.8313412469404025,4.0,6.8860629263805295,True,False,False,True,False,False,False,False,True,False,True,False,False,True,False,True,True,True,True,False,True,False,False,True,True,False,False,True
 0.0,5.027011630483206,1.0,12.0,True,False,False,True,True,True,True,True,False,False,False,False,True,False,True,True,True,False,True,False,False,False,False,False,True,True,False,False
@@ -3581,6 +3651,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 8.0,5.341660805474231,1.0,4.32693332028783,True,False,True,True,False,True,True,False,False,True,False,False,True,True,False,True,True,False,True,False,False,False,True,False,False,True,False,False
 14.0,4.9914025581648085,4.0,8.77979969289305,True,False,True,False,True,True,True,False,False,False,False,False,False,False,False,False,False,True,True,False,True,False,False,False,True,False,False,True
 4.0,4.7239905493017424,4.0,10.861306545916865,False,True,False,True,False,False,False,True,False,True,False,True,False,True,False,False,False,True,True,False,True,False,True,False,True,False,False,False
+10.0,5.311957926689192,2.0,8.979067656832036,False,True,True,True,False,False,True,True,False,False,False,True,False,True,False,False,False,True,True,False,False,True,False,True,True,False,True,False
 11.0,4.872421715757558,3.0,4.722057998611952,False,False,False,True,True,True,True,True,False,True,True,False,False,False,False,True,False,False,True,False,False,False,True,True,False,False,False,True
 10.0,4.999373272070033,4.0,5.810865627770616,True,False,True,True,False,True,True,True,False,False,False,True,False,True,False,True,False,True,True,False,False,True,False,True,True,False,True,False
 3.0,5.081327586932084,3.0,4.808962104467972,False,False,True,False,False,True,False,True,False,True,False,False,False,True,False,True,True,True,False,False,True,False,True,True,True,True,False,False
@@ -3663,6 +3734,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 7.0,4.822012294416808,2.0,7.1811524693451165,True,False,True,False,False,False,False,True,False,True,False,True,False,True,False,True,True,False,True,False,True,False,False,True,False,True,False,False
 4.0,4.949983935533134,4.0,11.060573471139708,True,False,True,False,False,False,False,True,True,False,True,False,False,True,False,True,True,False,False,False,True,False,True,False,True,False,False,False
 4.0,4.830431298568191,4.0,6.773330475196412,True,True,False,False,False,True,False,True,True,False,False,False,False,True,False,True,True,True,True,False,False,True,True,False,False,True,False,False
+7.0,4.638935638591523,2.0,9.469188611991852,True,False,False,True,False,False,False,False,True,False,False,False,False,True,False,True,True,True,False,False,True,False,False,True,True,False,False,False
 0.0,5.067335178663184,1.0,5.714012129124165,True,True,True,False,True,False,False,False,True,False,True,False,False,False,False,True,True,False,True,False,False,False,False,True,True,True,False,False
 13.0,5.087307325949494,2.0,6.943971914793957,False,False,False,False,True,False,False,True,False,False,False,False,True,False,False,True,True,True,False,False,True,False,True,False,False,False,True,False
 13.0,5.100939348377912,3.0,11.871706931631175,False,False,True,False,False,False,True,True,False,True,True,False,False,True,False,False,True,True,False,False,True,False,True,False,True,False,False,True
@@ -3827,6 +3899,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 10.0,4.7970320593605456,4.0,4.6704585091752815,False,False,False,False,False,True,True,True,False,False,True,False,False,True,False,True,True,True,False,False,False,True,True,False,True,False,False,True
 7.0,4.718300398325785,1.0,5.385496646722324,True,False,True,True,True,True,True,True,False,False,False,False,True,False,True,True,True,True,False,False,False,True,True,True,False,False,True,False
 0.0,4.845836891074257,2.0,3.0,False,True,False,True,False,False,True,False,False,False,True,False,False,True,False,False,True,True,True,False,True,False,True,True,False,False,True,False
+10.0,4.605021573657667,1.0,10.156141000233454,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,True,False,True,False,True,False,True,False,False,False,False,True
 12.0,4.7511820514851415,0.0,12.0,False,False,True,False,False,True,True,True,False,True,True,False,False,True,False,True,False,True,True,False,False,False,True,True,True,False,False,True
 13.0,5.131629261037877,3.0,11.328920045489216,True,True,True,False,False,True,True,False,False,True,False,True,False,True,False,False,True,True,False,True,True,False,True,False,False,False,False,False
 3.0,5.001086007940764,1.0,7.2700769762652815,True,False,True,True,False,False,True,False,True,False,False,False,True,True,False,False,False,False,True,False,True,False,True,False,False,False,False,False
@@ -3872,6 +3945,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 2.0,5.433180699158023,0.0,6.851751765128353,True,False,True,False,True,True,True,False,True,False,False,True,False,False,False,True,True,True,True,False,True,False,False,False,False,False,True,False
 2.0,5.179100188198247,1.0,8.734946271975081,True,False,True,False,False,True,False,False,False,True,False,False,False,True,False,True,True,True,True,False,True,False,False,False,True,False,False,False
 4.0,4.942019683828455,1.0,5.982950159373536,True,False,False,True,False,False,False,False,False,False,False,True,False,True,False,False,False,False,True,False,True,False,False,False,True,True,False,False
+14.0,4.838117650788346,3.0,12.0,True,True,False,False,False,False,True,False,True,False,False,False,False,True,False,False,True,True,True,False,False,False,False,False,False,True,False,False
 11.0,4.627090899649805,2.0,4.964760402206268,True,True,True,False,False,False,True,False,True,False,False,False,False,True,False,False,True,True,False,True,True,False,False,False,True,False,False,True
 8.0,4.52223503435672,1.0,7.313280718260112,True,False,True,True,False,True,False,True,True,False,False,False,False,True,False,False,False,False,True,False,True,False,False,True,False,False,True,False
 14.0,4.918846831012086,0.0,6.869884705870668,False,False,True,False,False,False,False,True,False,True,False,False,True,True,False,False,True,True,True,False,True,False,False,True,True,True,False,False
@@ -3890,6 +3964,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 0.0,4.621156624567746,4.0,9.454719251725267,True,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,True,True,True,False,False,True,False,False,False,True,False,False
 7.0,4.807514853493063,0.0,7.11737889619959,True,False,True,True,False,False,True,True,False,True,False,True,False,True,False,True,True,True,False,True,False,True,False,True,True,True,False,False
 0.0,5.187950125694245,2.0,6.615814883004526,False,False,True,False,False,False,True,True,False,False,True,False,False,True,False,True,True,False,True,False,False,True,False,True,True,True,False,False
+0.0,5.207924601132925,3.0,10.27738125539566,True,False,False,False,True,False,False,True,False,False,False,True,False,False,True,False,False,True,False,False,True,False,True,True,False,False,False,True
 9.0,4.828975867911617,1.0,6.5301657318408335,True,False,True,False,True,False,False,True,False,True,True,False,False,False,True,False,False,True,True,False,False,False,False,False,False,True,False,False
 14.0,4.9098053825165335,2.0,8.011770105152536,True,True,False,True,False,True,True,False,False,True,True,False,False,True,False,True,True,False,True,False,False,False,False,False,True,True,False,False
 1.0,4.712736614216358,3.0,5.72401814483391,False,False,False,True,True,False,False,False,False,True,False,True,False,False,True,False,True,True,False,True,False,True,False,True,True,False,True,False
@@ -4000,6 +4075,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 6.0,4.971389558180019,3.0,10.994868566689943,True,True,True,False,False,False,False,False,True,False,False,False,True,True,False,True,True,True,True,False,True,False,False,True,False,False,True,False
 3.0,4.78662096430445,1.0,8.020362493826624,False,True,False,True,True,False,True,True,True,False,False,True,False,False,True,False,True,False,True,False,True,False,False,True,False,False,True,False
 4.0,4.617870995528048,1.0,7.917978900059607,False,False,False,True,False,False,True,True,False,False,True,False,False,True,False,False,True,False,True,False,False,True,False,True,True,False,False,False
+13.0,4.732954969253012,2.0,7.678718743036847,False,False,True,True,False,False,True,True,False,True,True,False,False,True,False,False,True,False,False,False,False,False,False,False,True,False,False,True
 7.0,5.261052878082075,1.0,10.032985784553162,False,True,True,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,True,False,True,False,False,False,False,False,True,False
 2.0,5.525947685976703,0.0,7.741074639518361,False,True,True,False,True,False,False,True,True,False,False,True,False,False,False,False,True,False,True,False,False,False,True,True,True,False,False,True
 9.0,5.036165358186471,2.0,9.848069379852053,False,False,True,True,False,True,True,False,True,False,True,False,False,True,False,False,False,True,True,False,True,False,False,False,False,False,False,True
@@ -4020,6 +4096,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 5.0,5.049585056102263,1.0,4.379976884388338,True,True,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,True,True,False,True,False,True,False
 2.0,4.799146976011432,0.0,12.0,True,False,True,True,True,False,False,False,False,False,False,False,True,False,False,False,True,True,False,False,True,False,True,True,False,False,True,False
 1.0,5.056295760627328,2.0,6.495746817114728,False,False,False,True,False,True,False,True,False,True,True,False,False,True,False,True,False,False,False,True,True,False,False,False,False,False,False,False
+6.0,4.548935521241856,4.0,5.964407163528918,False,True,False,True,True,True,False,False,True,False,False,False,True,False,True,True,True,False,True,False,True,False,False,True,True,False,False,True
 9.0,4.610109877531255,1.0,3.637894730935834,True,True,False,False,False,False,True,True,True,False,False,False,False,True,False,False,True,True,True,False,True,False,False,True,False,False,True,False
 0.0,4.794249606146979,0.0,8.188270812711604,False,True,True,False,True,True,False,False,True,False,True,False,False,False,False,False,False,False,True,False,False,True,False,True,True,False,False,False
 1.0,4.705298998972603,0.0,10.204435162320856,True,False,True,False,False,True,False,False,False,True,False,False,False,True,False,True,False,False,False,True,True,False,True,False,False,True,False,False
@@ -4042,6 +4119,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 9.0,5.25165789904305,0.0,4.9911557265073165,True,True,True,True,False,True,True,False,False,False,False,False,True,True,False,False,True,False,True,False,False,True,True,True,True,False,True,False
 0.0,5.113332877699472,2.0,9.30761280015314,False,True,True,True,False,False,False,True,False,False,False,True,False,True,False,False,True,True,False,False,False,True,True,True,False,True,False,False
 3.0,4.8121840283001465,0.0,4.986868745566419,True,True,False,True,False,True,True,True,False,True,True,False,False,True,False,False,True,True,True,False,False,True,True,True,False,False,False,True
+1.0,5.229820359721808,4.0,12.0,True,False,False,False,True,True,True,False,False,False,False,True,False,False,True,True,False,True,False,True,True,False,True,False,True,False,False,False
 3.0,4.7977410708768495,1.0,6.043571937022341,True,True,False,True,False,True,True,False,False,False,False,False,False,True,False,True,True,False,True,False,False,False,True,False,False,False,False,True
 13.0,4.838002719472217,3.0,6.1516484532538165,False,False,False,False,False,True,True,True,True,False,True,False,False,True,False,True,True,False,False,True,True,False,False,True,False,False,False,False
 11.0,4.98539400077084,1.0,8.179980881815853,False,False,False,True,False,False,True,False,False,True,False,False,True,True,False,True,True,False,False,True,False,True,True,True,True,False,True,False
@@ -4061,6 +4139,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 0.0,5.11948500626439,0.0,5.806331064631912,True,False,False,False,False,False,False,False,True,False,False,True,False,True,False,True,True,False,False,False,False,False,True,True,False,False,False,False
 10.0,4.660958236648703,2.0,4.798574393354757,True,False,True,False,True,True,True,False,False,True,False,True,False,False,False,False,True,True,False,True,False,True,True,False,True,False,True,False
 6.0,4.821431156657918,3.0,10.001160121967814,True,True,True,True,False,False,False,True,False,False,False,False,False,True,False,False,True,False,True,False,True,False,True,True,False,False,False,True
+10.0,5.27497881139834,0.0,9.67007601236134,True,False,False,True,False,True,True,True,True,False,False,True,False,True,False,True,True,True,True,False,False,True,True,True,True,False,True,False
 13.0,5.182994962514913,1.0,11.20945099520396,True,False,True,False,False,False,True,False,False,False,False,True,False,True,False,False,True,True,False,False,False,False,False,False,False,False,False,True
 1.0,4.864093074286847,4.0,5.552772183603016,False,False,True,True,False,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,True,True,False,False,False
 8.0,5.092270819347629,1.0,5.4559108050437874,True,False,True,True,True,True,True,True,True,False,False,True,False,False,True,True,False,True,True,False,True,False,False,True,True,False,False,False
@@ -4136,6 +4215,8 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 14.0,4.888657847333138,4.0,7.094742668992888,True,True,True,False,True,False,True,True,False,False,True,False,False,False,True,True,False,True,False,False,False,False,False,False,True,False,False,False
 6.0,4.742803060984076,3.0,10.066641543727975,True,True,True,False,True,True,False,True,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,True,False
 0.0,4.936341034960339,3.0,11.101946448349132,True,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,True,False,False,True,False,False,True,False
+5.0,4.755136178083193,3.0,10.907527755731142,True,False,False,False,True,False,False,False,False,True,False,False,True,False,True,False,False,True,False,False,False,True,False,True,False,False,False,True
+4.0,4.777142697579462,2.0,12.0,True,True,True,False,True,True,False,False,False,True,True,False,False,False,False,False,True,False,True,False,False,True,False,False,True,False,False,False
 12.0,4.828210804878858,4.0,7.416391707290393,False,False,False,False,True,False,True,True,False,False,False,True,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,True
 14.0,5.251140803553408,2.0,7.673767321081956,True,True,False,True,True,False,True,False,False,True,False,False,True,False,False,False,True,True,True,False,False,True,True,True,True,False,False,False
 14.0,4.668700794729978,2.0,10.279455582935404,True,True,True,True,False,True,False,True,True,False,False,False,False,True,False,False,True,False,False,True,False,True,True,False,True,False,False,False
@@ -4334,6 +4415,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 3.0,4.992524635330295,1.0,7.717556609553964,True,False,True,False,True,False,True,False,False,True,False,False,False,False,True,False,False,False,True,False,False,False,False,False,True,False,False,False
 9.0,4.8151595508424885,2.0,4.252068670375722,False,False,False,True,False,False,True,False,False,False,False,False,True,True,False,False,True,True,True,False,False,False,True,False,True,False,False,True
 5.0,5.4592706948395024,2.0,8.59640535895743,True,False,False,True,True,True,False,False,True,False,False,False,False,False,True,False,False,False,False,True,True,False,False,False,False,True,False,False
+6.0,5.235685875071873,3.0,9.678582103072216,False,False,False,False,False,False,True,True,True,False,False,True,False,True,False,True,True,False,False,False,False,True,False,True,True,True,False,False
 1.0,5.017190454677271,1.0,3.0,False,True,True,False,False,True,True,True,False,True,False,False,False,True,False,False,False,True,True,False,False,False,False,False,True,False,False,False
 6.0,5.214548174868397,2.0,9.249670435673083,True,False,False,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,True,False,True,True,False,False
 11.0,4.87743250154654,2.0,5.4441669462645805,True,False,True,True,False,True,True,False,False,True,True,False,False,True,False,True,True,True,True,False,False,False,False,False,False,True,False,False
@@ -4583,6 +4665,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 6.0,4.785455635298339,1.0,9.368461603249289,True,False,False,False,True,False,False,False,False,True,False,False,True,False,True,True,False,True,False,True,False,False,False,True,False,False,False,True
 1.0,4.592436345056135,2.0,5.30874033859746,True,False,False,False,False,True,True,True,False,False,False,False,True,True,False,False,True,False,False,True,True,False,True,False,False,False,True,False
 10.0,4.768496990452558,3.0,8.86909999696717,True,False,True,False,True,True,True,True,False,False,False,True,False,False,True,False,True,False,True,False,False,True,True,False,False,False,False,False
+1.0,4.631635499733384,1.0,9.004167919780821,False,False,False,True,False,True,True,True,False,True,True,False,False,True,False,True,False,False,True,False,True,False,True,True,False,False,True,False
 5.0,5.124002813648635,2.0,7.627192180413778,False,False,False,True,False,True,True,False,False,False,True,False,False,True,False,True,True,True,True,False,False,True,False,True,False,False,False,False
 5.0,4.772906635107509,1.0,6.73575168474938,True,True,True,False,True,False,False,False,False,True,True,False,False,False,False,False,False,False,False,True,False,True,True,True,False,True,False,False
 3.0,4.796785951635225,2.0,12.0,True,False,False,True,False,True,False,False,False,False,False,True,False,True,False,False,True,True,True,False,False,True,False,False,True,True,False,False
@@ -4628,6 +4711,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 13.0,5.0208740032935975,0.0,8.222298974257695,True,True,False,True,False,False,False,True,True,False,True,False,False,True,False,False,True,False,True,False,False,False,True,False,True,True,False,False
 5.0,4.997558332953239,2.0,3.0,True,False,True,False,False,True,True,True,True,False,False,False,False,True,False,True,True,True,False,True,True,False,False,True,True,False,True,False
 9.0,4.852860899031478,3.0,8.472646122363873,True,False,True,False,False,False,False,True,False,True,False,False,False,True,False,True,True,False,True,False,True,False,False,True,True,True,False,False
+3.0,4.7830243074888585,1.0,3.0,False,True,False,True,False,False,False,False,False,True,False,False,False,True,False,True,True,True,True,False,True,False,False,True,False,True,False,False
 12.0,5.3371404385533445,2.0,11.757497220415829,False,True,True,False,False,False,True,True,False,False,True,False,False,True,False,True,True,True,False,False,False,False,False,False,True,True,False,False
 3.0,5.002791670215143,0.0,10.768324487604255,True,True,False,True,True,False,False,False,False,True,False,True,False,False,False,False,True,True,True,False,True,False,True,True,True,False,False,False
 13.0,4.923978789201322,2.0,9.862497230958224,True,True,False,True,False,True,False,True,False,True,True,False,False,True,False,False,False,False,True,False,False,True,False,False,False,True,False,False
@@ -4808,6 +4892,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 1.0,4.842352668750053,3.0,3.704977629089465,True,True,False,True,False,True,True,True,False,True,False,False,False,True,False,False,False,True,False,False,False,False,True,True,False,False,False,False
 7.0,5.152633253110619,2.0,3.0,False,False,False,False,True,False,False,False,False,False,False,True,False,False,True,True,False,False,True,False,True,False,False,False,False,False,True,False
 2.0,4.941141028714604,3.0,4.04226179395881,True,False,True,True,False,False,True,True,False,False,False,False,True,True,False,True,True,True,True,False,False,False,True,False,True,False,False,True
+5.0,4.7700771163858295,4.0,12.0,False,True,True,False,True,False,False,False,False,True,False,False,True,False,False,True,False,False,False,True,True,False,True,True,True,False,True,False
 1.0,4.8913016149658,1.0,3.824768933754723,False,True,False,False,True,True,True,True,False,False,False,True,False,False,False,True,True,True,False,False,True,False,True,False,False,True,False,False
 12.0,5.2146026500668174,2.0,3.9118356740434064,False,True,True,False,True,True,False,True,False,False,False,False,True,False,True,False,False,False,False,False,True,False,False,False,True,False,True,False
 8.0,4.778962831346576,3.0,6.895238695507842,True,False,True,True,True,True,True,True,False,True,False,True,False,False,False,False,False,True,True,False,True,False,True,True,False,False,False,True
@@ -4988,6 +5073,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 1.0,4.829070265841568,3.0,6.601305562914335,False,False,False,False,False,True,False,True,False,False,True,False,False,True,False,True,True,True,True,False,True,False,True,False,True,False,False,True
 3.0,5.1652003890858245,4.0,9.888463411254747,False,False,False,False,False,True,False,False,True,False,False,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,False,True
 0.0,4.751239992811104,3.0,7.618050645596795,False,True,False,True,False,True,False,True,False,True,False,False,True,True,False,False,False,True,True,False,True,False,True,False,False,False,False,True
+11.0,4.646340747168943,2.0,11.193965132664433,False,False,True,False,False,True,False,False,False,False,False,True,False,True,False,False,True,True,False,False,True,False,False,False,True,False,False,False
 3.0,4.871267095795446,3.0,8.54406600296872,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,False,True,False,True,True,True,True,False,True,False
 3.0,5.168960639729583,1.0,3.16563354773451,False,False,True,True,False,True,True,True,True,False,False,False,True,True,False,False,True,False,False,True,False,False,False,False,True,False,True,False
 11.0,5.051128122324704,3.0,10.897685803447471,False,False,False,True,True,True,True,False,False,False,False,False,True,False,True,True,True,True,True,False,False,False,False,True,False,True,False,False
@@ -5067,6 +5153,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 10.0,4.870517146717349,2.0,10.235767012292056,False,False,True,True,True,False,True,True,True,False,True,False,False,False,False,True,True,False,False,True,True,False,True,False,False,False,True,False
 7.0,4.951889182847472,1.0,11.421363492589474,False,True,False,False,False,True,True,False,True,False,False,True,False,True,False,False,False,True,True,False,False,False,True,True,True,False,True,False
 10.0,4.881820297006222,3.0,6.83743702227259,True,True,True,True,False,False,False,False,False,True,False,False,False,True,False,False,False,False,True,False,True,False,False,False,False,False,True,False
+3.0,5.096017766114753,3.0,7.050543779637923,True,True,False,True,False,False,False,True,False,True,False,False,True,True,False,False,True,False,True,False,False,True,False,True,True,True,False,False
 4.0,4.949282494710989,2.0,9.018289143003484,False,False,True,True,False,False,True,False,False,False,False,False,False,True,False,False,False,False,True,False,True,False,False,True,False,False,False,False
 1.0,5.168439149680767,3.0,6.586435862250777,False,False,False,False,True,True,False,False,False,True,False,True,False,False,True,True,True,False,True,False,False,False,False,True,False,False,True,False
 7.0,5.021404474277715,2.0,12.0,True,False,True,False,False,True,True,False,False,True,False,True,False,True,False,False,True,False,False,False,False,False,False,True,True,False,False,True
@@ -5107,6 +5194,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 4.0,4.567607957552238,1.0,12.0,True,False,False,True,True,True,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,True
 6.0,4.94739860116945,4.0,3.0,False,True,False,True,True,True,False,False,False,False,False,False,False,False,True,False,False,True,True,False,False,True,True,True,True,True,False,False
 11.0,5.240014054935687,3.0,6.435886189324063,False,False,True,False,True,False,True,True,True,False,False,True,False,False,False,False,True,True,True,False,True,False,False,True,False,False,False,True
+11.0,4.873400977085941,1.0,6.9841424018141565,False,True,True,True,False,False,True,True,False,True,True,False,False,True,False,True,True,False,True,False,True,False,False,True,True,True,False,False
 2.0,4.881711768739804,2.0,12.0,False,True,True,True,False,True,True,True,False,False,True,False,False,True,False,True,True,False,False,False,False,True,False,False,True,False,True,False
 3.0,4.696148165644764,2.0,7.115231151125418,True,True,True,False,False,False,False,True,False,True,False,False,False,True,False,True,True,False,True,False,True,False,True,True,False,True,False,False
 9.0,4.857315244330066,2.0,3.0055954698460106,True,False,True,True,False,True,True,False,False,False,False,True,False,True,False,False,True,True,True,False,True,False,True,True,False,False,False,True
@@ -5117,6 +5205,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 7.0,5.07676753136908,4.0,4.910741253920103,True,False,False,False,False,True,False,False,False,False,False,True,False,True,False,False,True,True,True,False,True,False,False,False,True,False,True,False
 14.0,5.173813471345724,0.0,6.7114563730870005,True,True,True,False,False,True,False,False,True,False,False,False,True,True,False,False,True,False,False,False,True,False,False,False,False,False,True,False
 4.0,5.019465775561684,2.0,7.9913636690855006,False,True,False,True,False,False,False,True,False,True,False,False,False,True,False,False,False,True,False,False,True,False,True,True,False,False,False,False
+11.0,5.156604957488382,0.0,8.933505952361807,False,False,True,True,True,False,True,True,False,True,False,False,True,False,False,False,True,False,True,False,True,False,True,False,True,False,False,False
 9.0,5.13936652505821,0.0,3.9079594865812313,True,False,True,False,False,False,True,False,True,False,False,False,True,True,False,True,True,False,False,False,False,True,True,False,False,False,False,False
 9.0,4.897504608111713,3.0,7.220258762023886,True,False,True,True,False,True,True,True,False,True,False,False,False,True,False,True,True,True,False,False,True,False,False,False,True,False,True,False
 10.0,4.82187033641429,3.0,6.044998022333714,True,False,True,True,True,True,False,False,True,False,False,False,True,False,False,False,False,True,False,True,True,False,False,True,True,False,True,False
@@ -5138,6 +5227,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 7.0,5.001462370258774,1.0,9.537301699814416,False,True,True,True,False,False,True,False,False,False,False,True,False,True,False,True,False,False,True,False,False,False,True,True,True,False,True,False
 1.0,4.821720526875456,3.0,11.296136624666262,True,False,True,False,False,True,False,True,True,False,True,False,False,True,False,False,False,False,True,False,False,False,True,True,True,False,True,False
 0.0,4.708336549497133,1.0,3.0,True,False,True,True,False,False,False,False,False,True,False,False,False,True,False,False,True,True,False,True,False,True,True,True,False,False,True,False
+14.0,4.837287200621222,3.0,4.752002342127104,True,False,True,True,False,False,True,True,False,True,False,True,False,True,False,True,True,False,True,False,False,False,False,False,True,True,False,False
 12.0,4.8431247637761246,0.0,10.17477580111835,False,True,False,True,False,True,False,True,True,False,False,False,True,True,False,False,False,False,False,True,False,True,True,False,False,False,False,False
 1.0,4.5710558977768745,2.0,10.502098979229755,False,True,False,True,False,False,False,True,False,True,False,False,False,True,False,False,True,True,False,False,True,False,True,False,True,False,False,True
 0.0,4.749282288042315,2.0,7.894339414519696,False,True,False,True,False,False,False,False,False,True,False,False,False,True,False,True,False,False,False,True,False,False,True,True,False,False,False,True
@@ -5173,6 +5263,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 4.0,4.9595523196637545,2.0,3.950675824962568,True,False,False,False,False,False,False,True,False,True,False,False,False,True,False,True,False,True,True,False,True,False,True,True,True,True,False,False
 6.0,4.7559034034420975,3.0,6.709269358169237,True,False,True,False,False,False,False,False,False,False,True,False,False,True,False,True,False,False,True,False,False,True,True,False,True,False,False,False
 7.0,5.069567431740388,1.0,4.055465834484703,True,False,True,True,True,True,False,False,False,False,False,False,True,False,False,False,True,False,True,False,False,True,False,False,False,True,False,False
+9.0,5.3126738237581215,0.0,12.0,True,False,True,True,False,True,True,True,True,False,False,False,True,True,False,True,True,True,False,True,False,True,False,False,False,False,False,True
 10.0,5.069438480241374,3.0,9.0307586921898,True,False,False,True,True,True,True,True,False,False,True,False,False,False,True,False,True,True,False,False,False,True,False,False,True,False,True,False
 1.0,4.5952071970831625,3.0,6.255170141925031,False,False,True,False,False,False,True,False,False,True,True,False,False,True,False,True,True,True,True,False,True,False,True,False,False,True,False,False
 9.0,5.381104597159871,3.0,10.00636903121275,False,False,True,False,False,False,False,True,False,True,False,False,True,True,False,True,False,False,True,False,True,False,True,False,False,False,False,False
@@ -5319,6 +5410,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 14.0,4.8083227038980825,2.0,4.186546078833239,False,False,False,False,False,False,False,True,False,False,False,False,True,True,False,False,False,True,True,False,True,False,False,True,False,True,False,False
 7.0,4.995534467542458,3.0,6.6971249490683125,True,False,True,False,True,True,True,False,False,False,False,True,False,False,True,False,True,True,True,False,False,False,False,False,False,False,True,False
 0.0,5.108957232796256,0.0,8.60937602889245,True,False,True,False,False,False,True,True,True,False,True,False,False,True,False,True,True,False,True,False,False,False,True,True,True,True,False,False
+9.0,4.642306205951959,0.0,3.0,True,False,False,False,False,False,False,True,False,True,False,True,False,True,False,True,False,False,False,True,True,False,False,False,False,False,False,False
 1.0,5.188834200417612,2.0,5.071504049312575,False,False,False,False,True,False,True,True,True,False,False,False,True,False,True,True,True,False,False,True,False,False,False,True,True,True,False,False
 11.0,5.1138960441634485,3.0,9.050423755542578,True,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,True,False,True,False,True,False,False,True,True,True,False,False
 4.0,4.984462519118622,1.0,4.954981400905474,False,True,True,True,False,False,True,True,False,True,False,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False
@@ -5362,6 +5454,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 2.0,5.011451780691499,4.0,7.970385842827778,True,False,True,False,False,True,False,False,False,False,True,False,False,True,False,False,True,False,False,False,True,False,False,False,False,False,False,True
 12.0,4.441605945781545,3.0,3.0,False,False,True,False,False,True,True,False,False,False,False,False,True,True,False,True,True,True,False,True,True,False,True,True,False,False,False,False
 5.0,4.850882905814674,4.0,11.200888423386452,True,False,False,True,False,True,True,True,False,False,True,False,False,True,False,False,True,True,True,False,False,False,False,True,False,False,True,False
+1.0,4.8168698722885,1.0,8.919018653662642,True,True,False,False,False,True,True,False,True,False,False,False,True,True,False,True,False,False,False,True,True,False,False,False,True,False,True,False
 12.0,4.980271998895797,4.0,10.17934252176298,True,False,True,False,True,True,True,False,False,False,False,False,True,False,True,True,True,True,True,False,False,False,True,False,True,False,False,True
 11.0,5.007323112629858,4.0,6.1800122200324425,True,True,False,False,True,False,True,True,False,False,False,True,False,False,True,False,False,True,False,True,False,True,False,True,True,True,False,False
 12.0,4.86140250188338,0.0,8.012246748134409,True,False,False,True,False,False,False,True,False,False,False,False,False,True,False,False,True,False,False,True,False,False,True,False,False,False,True,False
@@ -5468,6 +5561,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 7.0,4.979600559388332,2.0,11.059126252872176,True,True,True,False,False,True,False,True,False,True,False,False,True,True,False,False,False,False,False,True,True,False,False,True,False,False,False,True
 0.0,4.772792393076741,1.0,8.268166530680805,True,False,False,True,False,False,False,False,True,False,False,True,False,True,False,True,True,True,False,True,False,True,False,False,False,False,True,False
 13.0,4.8818236508346375,1.0,11.010670503978442,True,True,False,False,False,True,True,False,False,True,False,False,False,True,False,True,True,False,True,False,True,False,True,False,True,False,False,True
+9.0,4.676101013011273,3.0,8.545023417054633,True,False,False,True,False,False,True,True,False,False,True,False,False,True,False,True,False,False,True,False,True,False,False,False,False,False,False,False
 4.0,4.715533633839224,1.0,5.8013579445718895,True,False,False,True,False,False,True,True,False,True,False,False,True,True,False,True,False,False,True,False,True,False,False,True,True,False,True,False
 5.0,5.245805894595357,4.0,6.035305274397316,False,False,True,False,True,True,False,True,True,False,True,False,False,False,False,True,True,False,True,False,False,True,True,True,True,True,False,False
 5.0,4.826643499851115,0.0,4.304300244688989,False,False,False,False,False,True,False,True,False,True,False,True,False,True,False,False,True,True,True,False,False,True,False,False,True,False,True,False
@@ -5499,6 +5593,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 5.0,5.035541647913996,3.0,5.151430269841608,True,True,False,False,True,False,False,True,False,False,False,True,False,False,True,False,False,True,False,False,True,False,True,False,True,False,True,False
 2.0,5.502969359602653,1.0,9.022516023330828,False,False,False,False,False,False,True,False,True,False,False,False,False,True,False,False,True,False,True,False,True,False,True,False,False,False,True,False
 4.0,4.4482116165211085,4.0,3.4055483496718377,True,False,False,True,False,True,True,False,False,False,False,False,True,True,False,True,False,False,False,True,False,True,False,False,False,False,False,True
+2.0,5.038850681311878,2.0,10.276019642512608,False,False,False,False,True,True,True,True,False,False,False,False,False,False,False,True,False,True,False,True,False,False,False,True,False,True,False,False
 1.0,5.0852582521438565,3.0,7.97812008236984,False,False,False,False,False,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,True,False,False,False,True,True,False,False
 4.0,4.97859050592638,3.0,8.842518223987998,True,False,True,True,False,True,False,False,False,True,True,False,False,True,False,True,False,True,False,False,True,False,True,True,True,False,False,False
 14.0,4.669741668754243,0.0,7.752446062637099,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,True,True,True,False,True,False,True,True,False,False,False,False
@@ -5509,6 +5604,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 4.0,4.982473396541503,0.0,5.011775221384811,False,True,False,False,False,True,True,True,False,False,False,False,True,True,False,False,False,False,True,False,False,False,True,True,False,False,True,False
 10.0,4.920158442268424,0.0,11.068802316005032,True,True,True,True,False,True,True,False,False,True,False,False,True,True,False,True,True,False,False,False,False,False,True,False,False,False,False,False
 13.0,4.9489972527156985,3.0,8.324613520833719,False,True,True,True,False,False,False,True,True,False,True,False,False,True,False,True,False,False,True,False,True,False,False,False,False,False,False,True
+3.0,4.803219267351572,3.0,12.0,False,False,True,True,False,True,False,True,True,False,False,False,True,True,False,True,True,False,False,False,True,False,False,False,False,False,True,False
 6.0,4.914117409499792,4.0,8.877122031957944,False,False,False,False,False,False,False,False,True,False,False,True,False,True,False,False,False,False,False,False,True,False,False,False,True,False,False,False
 5.0,4.832177631376916,0.0,8.497178509079625,False,False,False,True,True,False,False,True,True,False,True,False,False,False,True,False,True,False,False,False,True,False,False,True,False,True,False,False
 2.0,4.708460428779265,3.0,7.741946025728675,False,False,True,False,False,False,False,False,True,False,False,True,False,True,False,False,False,False,False,True,True,False,False,True,False,False,False,False
@@ -5628,6 +5724,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 11.0,4.8534492227767005,1.0,7.394476452089695,True,False,True,True,False,True,False,True,False,True,True,False,False,True,False,False,True,False,False,True,True,False,False,True,False,False,True,False
 6.0,5.100978609502354,1.0,9.383883406107753,True,True,True,False,True,True,False,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False,True,True,True,False,True,False
 0.0,4.872527720185434,2.0,8.909666713418376,True,True,True,False,False,False,True,True,False,True,True,False,False,True,False,False,True,False,True,False,True,False,False,True,True,False,False,True
+6.0,4.879470480986352,1.0,4.782584771371559,False,False,True,False,False,False,False,False,False,False,False,False,True,True,False,True,False,True,False,False,False,False,True,True,True,False,True,False
 1.0,4.683838677662067,4.0,12.0,False,False,True,False,False,False,False,True,True,False,False,False,False,True,False,True,False,False,True,False,False,False,False,False,False,False,False,False
 13.0,4.945900253862488,2.0,9.4856259352742,True,True,False,True,True,False,False,False,False,False,False,False,False,False,False,True,True,True,True,False,False,True,True,True,True,False,False,False
 3.0,4.8635303151824925,3.0,3.8850226771016856,False,False,True,False,True,True,True,True,False,True,False,True,False,False,True,False,False,True,True,False,True,False,False,True,True,False,False,True
@@ -5695,6 +5792,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 14.0,5.177661922390321,3.0,7.013367614343709,True,False,True,False,False,True,True,True,False,True,False,False,False,True,False,True,False,True,True,False,False,False,False,True,True,False,True,False
 8.0,4.9561361124390055,2.0,5.617326779110411,True,True,False,False,False,True,True,False,True,False,False,False,True,True,False,False,True,True,True,False,True,False,False,True,True,False,False,False
 3.0,4.7790600400561125,2.0,5.8824124465393375,False,False,False,False,True,True,True,False,False,False,True,False,False,False,False,True,True,True,False,False,False,True,False,False,True,False,True,False
+2.0,4.7753107261468575,3.0,10.57302813441051,True,True,False,False,False,True,True,False,False,False,False,False,True,True,False,True,True,False,False,True,False,False,False,True,False,False,False,True
 11.0,5.086312934600864,1.0,3.4128351203663736,True,False,False,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False,False,True,False,True,False,True,False,True,False
 0.0,5.155472543929373,0.0,9.731028681195871,True,False,False,False,False,False,False,True,True,False,False,False,True,True,False,True,True,True,True,False,True,False,True,False,False,False,False,False
 13.0,4.798893250574586,3.0,10.066675586350804,False,True,False,True,False,False,False,True,False,False,False,False,False,True,False,False,True,False,False,False,False,True,True,True,True,True,False,False
@@ -5733,6 +5831,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 6.0,5.021899076035836,3.0,8.65065304352903,False,False,False,False,False,True,True,True,True,False,False,False,False,True,False,True,False,False,False,True,True,False,True,True,False,False,False,False
 11.0,4.81459926120077,0.0,8.171521288069963,True,False,True,False,False,True,False,True,False,False,False,False,True,True,False,False,False,False,False,True,True,False,True,True,False,False,True,False
 13.0,4.953237963752497,3.0,12.0,True,False,False,False,True,True,False,True,True,False,False,False,True,False,False,False,False,False,True,False,True,False,False,False,False,False,True,False
+4.0,4.747865464067241,1.0,10.48593146772816,True,True,False,True,True,True,False,False,False,True,False,False,False,False,True,True,False,False,True,False,False,True,False,True,False,True,False,False
 7.0,4.754145533850191,0.0,5.5903072820119935,False,False,False,True,False,False,False,True,True,False,False,False,True,True,False,False,False,False,False,False,True,False,False,False,True,True,False,False
 6.0,4.789118725883181,4.0,7.222787563760287,True,False,True,False,False,False,True,True,True,False,False,False,True,True,False,True,False,True,True,False,True,False,True,True,False,False,False,False
 1.0,4.839430647068512,3.0,6.595112260096494,True,False,False,False,False,True,False,True,False,True,False,True,False,True,False,False,False,True,False,False,False,True,True,True,False,False,True,False
@@ -5966,6 +6065,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 10.0,4.970818919376431,0.0,9.72973912459439,False,False,True,True,True,True,False,False,False,False,True,False,False,False,True,True,False,True,True,False,True,False,True,False,False,False,False,True
 1.0,5.124934868825814,0.0,7.550942513810269,True,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,True,True,False,False,False,True
 4.0,5.044643232088419,2.0,3.570410768481928,True,False,True,False,False,True,True,False,False,True,False,False,True,True,False,True,True,False,True,False,False,False,True,True,False,False,False,True
+12.0,4.676444507943317,0.0,8.644394837169786,False,False,False,False,True,False,True,False,True,False,False,True,False,False,False,True,False,False,False,False,False,True,False,True,True,False,True,False
 11.0,5.395433875640652,4.0,5.284257275773923,False,False,True,True,False,True,False,False,False,True,True,False,False,True,False,False,True,False,True,False,True,False,True,True,True,False,True,False
 1.0,4.902576128044291,4.0,8.320794834606522,True,True,False,True,True,True,False,False,True,False,False,False,False,False,True,False,False,False,True,False,True,False,False,False,False,True,False,False
 7.0,5.006355707616752,4.0,3.0,False,True,False,True,True,True,False,True,False,False,False,False,True,False,False,True,False,False,False,False,True,False,False,False,False,True,False,False
@@ -6060,6 +6160,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 0.0,5.121294196081381,0.0,8.532496185440639,False,True,False,True,False,False,False,False,True,False,False,True,False,True,False,False,False,True,True,False,False,False,True,True,False,True,False,False
 10.0,4.936748198023851,1.0,3.0,True,True,True,True,True,True,True,True,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,True,True,False,False
 12.0,4.457742718565908,2.0,5.796189228007761,False,False,True,False,False,True,False,True,False,True,False,False,True,True,False,False,False,False,True,False,True,False,False,False,True,False,False,False
+9.0,5.2490565965392415,0.0,3.0,False,False,False,False,True,True,True,True,False,True,True,False,False,False,False,False,True,True,False,True,False,False,False,False,False,True,False,False
 0.0,4.8105794870713545,2.0,4.506983401054521,True,False,False,False,True,False,True,False,False,False,False,False,False,False,False,True,True,False,True,False,True,False,True,True,False,False,False,False
 1.0,4.895474475573316,1.0,6.654109052651823,True,True,False,True,False,False,True,False,False,True,False,False,False,True,False,True,True,False,True,False,True,False,True,False,False,False,True,False
 4.0,5.185216065572992,0.0,4.380978955385098,True,True,False,False,True,False,True,False,False,True,True,False,False,False,True,True,False,False,True,False,True,False,False,False,False,False,True,False
@@ -6094,6 +6195,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 7.0,5.007146871493656,2.0,6.711693562469481,False,False,False,False,True,True,False,False,False,True,False,False,True,False,False,True,False,False,False,True,False,False,True,True,False,False,False,False
 12.0,4.8852195841205095,2.0,7.386084764780954,False,False,False,False,False,True,True,False,False,True,False,False,True,True,False,False,True,True,False,True,True,False,True,False,True,False,False,False
 14.0,4.668829586801347,0.0,10.407127294922288,False,True,False,False,False,False,True,False,True,False,False,True,False,True,False,True,True,True,True,False,True,False,True,True,False,False,True,False
+5.0,5.1486294365947245,4.0,3.0,False,False,True,False,True,True,False,True,False,True,False,False,False,False,True,True,False,True,False,False,False,False,True,True,False,True,False,False
 4.0,4.8148136336586775,0.0,7.500566097614867,False,True,False,False,False,True,False,True,True,False,False,True,False,True,False,True,True,True,False,True,True,False,False,True,True,False,True,False
 6.0,5.1669424713585705,1.0,9.28022221462608,True,False,False,False,False,False,True,False,False,True,False,False,False,True,False,False,True,False,True,False,True,False,False,False,True,True,False,False
 10.0,4.874087006542514,1.0,5.630947161184909,True,False,True,False,True,False,False,False,False,False,False,False,True,False,True,False,False,False,False,True,True,False,False,True,False,False,False,False
@@ -6163,6 +6265,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 5.0,4.8261271828141465,4.0,6.090527100210391,True,False,True,True,True,True,False,False,False,True,False,False,True,False,False,False,False,True,True,False,False,True,True,False,False,False,True,False
 11.0,5.202690931773755,4.0,4.524290306794546,True,True,True,True,False,True,False,False,False,False,False,False,True,True,False,False,True,False,True,False,False,True,False,True,False,False,False,False
 4.0,4.927173570875357,2.0,10.59064518917308,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,False,True,False,False,True,False,False
+3.0,5.15465551380966,3.0,3.963907882981978,False,True,True,False,True,False,False,True,True,False,False,True,False,False,False,False,True,False,True,False,True,False,False,False,True,False,False,False
 2.0,5.06696524082993,4.0,11.957490615643833,True,False,False,False,False,False,False,False,False,True,True,False,False,True,False,True,True,True,False,False,False,False,True,False,False,False,False,True
 11.0,4.6661685131234725,0.0,4.737396993372324,True,False,False,False,False,True,True,False,True,False,False,False,False,True,False,False,False,True,True,False,True,False,True,False,False,False,False,True
 2.0,4.732570485412366,1.0,10.16050732383986,True,False,True,False,False,True,True,False,False,True,False,True,False,True,False,False,False,False,True,False,False,False,True,False,False,False,True,False
@@ -6223,6 +6326,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 4.0,4.775273727663299,2.0,12.0,False,False,False,True,True,True,True,False,False,True,False,False,False,False,True,False,False,True,False,False,True,False,True,False,False,False,False,False
 1.0,5.034369344950184,4.0,7.9100003216515375,True,False,True,False,True,True,False,False,True,False,False,False,False,False,True,True,False,False,False,False,True,False,True,False,True,False,False,False
 7.0,4.843978064932523,2.0,7.45996993270183,False,False,False,False,True,False,False,True,False,True,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,True,False,False
+4.0,4.721704457142769,2.0,9.458312288904525,False,True,False,False,False,False,False,True,False,True,False,False,True,True,False,False,True,True,True,False,True,False,True,True,True,False,True,False
 11.0,4.721451501230856,2.0,9.584124615303736,True,True,True,False,False,True,False,False,False,False,False,False,True,True,False,False,False,False,True,False,False,True,True,True,False,False,False,True
 0.0,5.082845917463483,2.0,3.0,True,False,True,True,True,True,False,False,False,True,True,False,False,False,False,False,True,False,False,True,False,False,True,False,False,False,False,False
 9.0,4.447937479409265,0.0,3.0,True,False,False,False,False,True,True,False,False,True,False,False,True,True,False,True,False,False,False,False,True,False,True,True,True,False,True,False
@@ -6250,6 +6354,7 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 11.0,4.922282017968756,0.0,9.184827865458733,True,True,False,True,False,False,False,False,True,False,False,True,False,True,False,False,False,True,False,True,False,True,True,True,True,False,False,True
 14.0,5.025661972401485,3.0,6.051892335112232,False,False,False,False,False,False,True,True,False,True,True,False,False,True,False,True,False,False,False,False,True,False,True,True,True,False,True,False
 5.0,4.953886947477659,2.0,9.85729644122288,True,False,False,False,True,True,True,False,False,False,False,False,False,False,False,False,True,False,True,False,False,True,False,True,True,False,True,False
+1.0,4.900716190126471,3.0,7.384279388800801,True,False,True,False,False,True,False,False,False,False,False,False,False,True,False,True,False,False,True,False,False,True,True,False,True,False,False,True
 1.0,4.775470168241335,2.0,6.975216694533963,True,False,False,False,True,False,True,True,False,True,True,False,False,False,True,True,True,False,False,True,False,True,True,False,True,True,False,False
 12.0,4.95959773423265,2.0,4.133720019456349,False,True,False,False,False,False,False,False,False,True,False,True,False,True,False,False,True,False,False,False,True,False,True,False,False,False,True,False
 10.0,4.765945025902947,4.0,10.277743861306853,True,False,True,False,True,False,False,True,True,False,False,True,False,False,True,False,False,False,False,True,True,False,False,True,True,True,False,False
@@ -6295,3 +6400,4 @@ Patient Age,Blood cell count (mcL),No. of previous abortion,White Blood cell cou
 4.0,5.077553593207507,1.0,9.566548942470376,True,False,False,False,True,False,False,True,False,False,False,False,True,False,True,True,False,True,False,False,True,False,False,False,True,True,False,False
 0.0,4.9317578827514765,1.0,11.649052381716883,True,False,True,False,False,False,True,True,True,False,True,False,False,True,False,True,False,False,True,False,False,False,True,True,True,False,False,False
 8.0,4.974220491923045,2.0,7.0415556671485575,False,True,False,True,False,False,False,False,False,False,False,False,False,True,False,True,True,True,False,False,True,False,True,False,False,True,False,False
+7.0,4.858542665533117,1.0,8.437670294828688,True,False,True,True,False,True,True,False,False,True,True,False,False,True,False,False,True,True,True,False,False,True,True,False,False,False,False,False
