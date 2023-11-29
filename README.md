@@ -8,6 +8,10 @@ Starla Halliday, Yemesrach Gebremikael, Robert Takan and Mosa
 
 November, 2023
 
+## Tableau Link
+
+https://public.tableau.com/app/profile/yemesrach.gebremikael/viz/Geneticdisorder_dataset/Story1
+
 ## Overview
 
 This repository contains code for predicting genetic disorders using machine learning models, specifically neural networks and logistic regression. The dataset used for training and testing is sourced from train.csv.
