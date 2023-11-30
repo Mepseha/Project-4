@@ -86,7 +86,7 @@ To assist in our analysis, we also generated a graph to observe various factors 
 Logistic Regression vs. Random Forest: Compared logistic regression and random forest models using various metrics, including balanced accuracy, classification reports, and confusion matrices.
 In summary, logistic regression models were applied to predict the presence or absence of genetic disorders using various sets of features. The models were trained, evaluated, and compared based on their performance metrics. Additional exploration and model tuning may be needed for further improvements.
 
-![image](https://github.com/Mepseha/Project-4/assets/133922704/8d7d0248-da48-4cf9-b7a1-5c8f1c1faa60)
+![image](https://github.com/Mepseha/Project-4/assets/133922704/6fda806c-3148-4a79-babf-0352e38811c2)
 
 ## Conclusion 
 
