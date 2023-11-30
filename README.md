@@ -8,6 +8,10 @@ Starla Halliday, Yemesrach Gebremikael, Robert Takan and Mosa
 
 November, 2023
 
+## Tableau Link
+
+https://public.tableau.com/app/profile/yemesrach.gebremikael/viz/Geneticdisorder_dataset/Story1
+
 ## Overview
 
 This repository contains code for predicting genetic disorders using machine learning models, specifically neural networks and logistic regression. The dataset used for training and testing is sourced from train.csv.
@@ -37,6 +41,10 @@ This repository contains code for predicting genetic disorders using machine lea
 
 _- The balanced_accuracy score of the model: 1.0_
 
+To assist in our analysis, we also generated a graph to observe various factors that either positively or negatively influenced the logistic regression model's predictions for genetic disorders. In logistic regression, the coefficients assigned to each feature reveal valuable insights into the impact of those features on predicting the outcome.  Overall, positive coefficients suggest that an increase in the corresponding feature value makes the prediction more likely to return the presence of a genetic disorder, while negative coefficients suggest the opposite.
+
+![image](https://github.com/Mepseha/Project-4/assets/133922704/a6d4b4fb-c9e2-48ea-a3fb-ba346c16e7c4)
+
 # Alternative Models
 
 ## Logistics Regression Model (Neural Networks)
@@ -57,7 +65,7 @@ _- The balanced_accuracy score of the model: 1.0_
 - Read Data: Loaded the data from the 'train.csv' file into a Pandas DataFrame.
 - Clean Data: Unnecessary columns are removed, and missing values are handled by dropping rows with NaN values. Duplicate rows are also identified and removed. Additionally, specific string values (e.g., '-') are replaced with more appropriate ones (e.g., 'Not applicable').
 - Data Encoding: Performed one-hot encoding on categorical columns.
-- Target Creation: A binary target column is created and defined as 'Multifactorial or Single-gene inheritance GeneticDisorder_Present,' indicating the presence (1) or absence (0) of a genetic disorder. The original columns used for this binary classification are then dropped.
+- Target Creation: A binary target column is created and defined as 'GeneticDisorder_Present,' indicating the presence (1) or absence (0) of a genetic disorder. The original columns used for this binary classification are then dropped.
 - Feature Selection: The feature variables are defined as all columns in the DataFrame GeneticDisorder_encoded_df except for the target variable Multifactorial or Single-gene inheritance GeneticDisorder_Present. Categorical columns have been one-hot encoded.
 ### Logistic Regression Model
 - Split Data: Divided the data into training and testing sets using train_test_split.
@@ -78,11 +86,13 @@ _- The balanced_accuracy score of the model: 1.0_
 Logistic Regression vs. Random Forest: Compared logistic regression and random forest models using various metrics, including balanced accuracy, classification reports, and confusion matrices.
 In summary, logistic regression models were applied to predict the presence or absence of genetic disorders using various sets of features. The models were trained, evaluated, and compared based on their performance metrics. Additional exploration and model tuning may be needed for further improvements.
 
-![image](https://github.com/Mepseha/Project-4/assets/133922704/0a51f1a9-fa18-4e88-b338-f0b88b263e25)
+![image](https://github.com/Mepseha/Project-4/assets/133922704/671d2a73-5752-4667-ab42-f4dd8f100540)
 
 ## Conclusion 
 
-The classification reports, in the Logistics Regression (Multifactorial or Single-gene inheritance GeneticDisorder_Present) effort, present the evaluation metrics for both the Logistic Regression and Random Forest models. In the primary dataset of 1,927 samples, Logistic Regression achieved an accuracy of approximately 50%, demonstrating balanced precision and recall for both classes (0 and 1). The F1-score, a harmonic mean of precision and recall, is around 0.50 for both classes, indicating a moderate balance between precision and recall. On the other hand, the Random Forest model achieved an accuracy of approximately 52%, with a slightly higher precision and recall for class 0 compared to class 1. The F1-score for class 0 is around 0.53, indicating a better balance between precision and recall for this class, while class 1 has an F1-score of around 0.52. In a smaller dataset for the Logistics Regression (Genetic Disorder) effort of 250 samples, the model performed exceptionally well with an accuracy of 100%, demonstrating perfect precision, recall, and F1-score for both classes. These results suggest that the models may perform differently on datasets of varying sizes and characteristics, emphasizing the importance of understanding the specific context and requirements of the application. Further model tuning and exploration are recommended for achieving optimal performance.
+In the Logistic Regression (GeneticDisorder_Present) effort, the Logistic Regression model achieved an accuracy of approximately 45.92%, with a balanced precision and recall for both classes (0 and 1) in the primary dataset of 1,281 samples. The F1-score for both classes indicates a moderate balance between precision and recall. The Random Forest model achieved an accuracy of approximately 53.54%, with slightly higher precision and recall for class 0 compared to class 1. The F1-score for class 0 is around 0.53, indicating a better balance between precision and recall, while class 1 has an F1-score of around 0.52.
+
+In the Logistic Regression (Genetic Disorder) effort with a smaller synthetic dataset of 250 samples, the model performed exceptionally well with 100% accuracy, demonstrating perfect precision, recall, and F1-score for both classes. These results highlight potential variations in model performance based on dataset size and characteristics, emphasizing the importance of understanding the specific context and requirements of the application. Further model tuning and exploration are recommended for optimal performance.
 
 ## Reference 
 
