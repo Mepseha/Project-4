@@ -86,11 +86,15 @@ To assist in our analysis, we also generated a graph to observe various factors 
 Logistic Regression vs. Random Forest: Compared logistic regression and random forest models using various metrics, including balanced accuracy, classification reports, and confusion matrices.
 In summary, logistic regression models were applied to predict the presence or absence of genetic disorders using various sets of features. The models were trained, evaluated, and compared based on their performance metrics. Additional exploration and model tuning may be needed for further improvements.
 
-![image](https://github.com/Mepseha/Project-4/assets/133922704/671d2a73-5752-4667-ab42-f4dd8f100540)
+![image](https://github.com/Mepseha/Project-4/assets/133922704/8d7d0248-da48-4cf9-b7a1-5c8f1c1faa60)
 
 ## Conclusion 
 
-In the Logistic Regression (GeneticDisorder_Present) effort, the Logistic Regression model achieved an accuracy of approximately 45.92%, with a balanced precision and recall for both classes (0 and 1) in the primary dataset of 1,281 samples. The F1-score for both classes indicates a moderate balance between precision and recall. The Random Forest model achieved an accuracy of approximately 53.54%, with slightly higher precision and recall for class 0 compared to class 1. The F1-score for class 0 is around 0.53, indicating a better balance between precision and recall, while class 1 has an F1-score of around 0.52.
+In the Logistic Regression (Genetic Disorder Present) analysis, the Logistic Regression model exhibited an accuracy of approximately 75%, with a balanced precision and recall for both classes (0 and 1) in the primary dataset of 1,601 samples. The F1-score for both classes indicates a moderate balance between precision and recall. The mean cross-validation score for Logistic Regression was approximately 78%, reflecting a consistent performance across different subsets of the data.
+
+On the other hand, the Random Forest model achieved an accuracy of approximately 99%, with slightly higher precision and recall for class 0 compared to class 1. The F1-score for class 0 is around 0.00, indicating a better balance between precision and recall, while class 1 has an F1-score of around 0.99. The mean cross-validation score for Random Forest was approximately 89%, suggesting a robust performance across different data subsets.
+
+It's noteworthy that the balanced accuracy for Logistic Regression was 59.20%, while for Random Forest, it was 49.65%. These metrics provide insights into the models' ability to perform well on imbalanced datasets, with higher values indicating better performance. While both models demonstrated high accuracy, further exploration of features, hyperparameter tuning, and addressing class imbalance could enhance their overall predictive performance.
 
 In the Logistic Regression (Genetic Disorder) effort with a smaller synthetic dataset of 250 samples, the model performed exceptionally well with 100% accuracy, demonstrating perfect precision, recall, and F1-score for both classes. These results highlight potential variations in model performance based on dataset size and characteristics, emphasizing the importance of understanding the specific context and requirements of the application. Further model tuning and exploration are recommended for optimal performance.
 
